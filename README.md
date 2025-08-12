@@ -29,7 +29,7 @@ We evaluate all models on:
 
 ---
 
-## 🧪 Planned Ablations
+## Planned Ablations
 | Ablation Group | Variable Changed | Settings |
 |----------------|------------------|----------|
 | **A – Model family** | MC / HMM / Neural-HMM | A1: MC (char), A2: HMM (char), A3: Neural-HMM (char) |
@@ -40,7 +40,7 @@ We evaluate all models on:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 src/
   data/               # Corpus preparation, tokenization
