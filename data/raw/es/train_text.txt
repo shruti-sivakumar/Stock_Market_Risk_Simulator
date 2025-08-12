@@ -1,25 +1,4 @@
-The Project Gutenberg eBook of Don Quijote
 
-
-This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
-
-Title: Don Quijote
-
-Author: Miguel de Cervantes Saavedra
-
-
-
-Release date: December 1, 1999 [eBook #2000]
-
-Most recently updated: January 2, 2021
-
-Language: Spanish
-
-Credits: an anonymous Project Gutenberg volunteer and Joaquin Cuenca Abela
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK DON QUIJOTE ***
 
 
 
@@ -27,17 +6,7 @@ Credits: an anonymous Project Gutenberg volunteer and Joaquin Cuenca Abela
 
 El ingenioso hidalgo don Quijote de la Mancha
 
-
-
 por Miguel de Cervantes Saavedra
-
-
-
-
-* * *
-
-
-
 
 El ingenioso hidalgo don Quijote de la Mancha
 
@@ -880,7 +849,7 @@ Primera parte del ingenioso hidalgo don Quijote de la Mancha
 
 
 
-Capítulo primero. Que trata de la condición y ejercicio del famoso hidalgo don Quijote de la Mancha
+Que trata de la condición y ejercicio del famoso hidalgo don Quijote de la Mancha
 
 
 En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino. Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana. Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.
@@ -909,7 +878,7 @@ Limpias, pues, sus armas, hecho del morrión celada, puesto nombre a su rocín y
 
 
 
-Capítulo II. Que trata de la primera salida que de su tierra hizo el ingenioso don Quijote
+ Que trata de la primera salida que de su tierra hizo el ingenioso don Quijote
 
 
 Hechas, pues, estas prevenciones, no quiso aguardar más tiempo a poner en efeto su pensamiento, apretándole a ello la falta que él pensaba que hacía en el mundo su tardanza, según eran los agravios que pensaba deshacer, tuertos que enderezar, sinrazones que emendar, y abusos que mejorar y deudas que satisfacer. Y así, sin dar parte a persona alguna de su intención, y sin que nadie le viese, una mañana, antes del día, que era uno de los calurosos del mes de julio, se armó de todas sus armas, subió sobre Rocinante, puesta su mal compuesta celada, embrazó su adarga, tomó su lanza, y, por la puerta falsa de un corral, salió al campo con grandísimo contento y alborozo de ver con cuánta facilidad había dado principio a su buen deseo. Mas, apenas se vio en el campo, cuando le asaltó un pensamiento terrible, y tal, que por poco le hiciera dejar la comenzada empresa; y fue que le vino a la memoria que no era armado caballero, y que, conforme a ley de caballería, ni podía ni debía tomar armas con ningún caballero; y, puesto que lo fuera, había de llevar armas blancas, como novel caballero, sin empresa en el escudo, hasta que por su esfuerzo la ganase. Estos pensamientos le hicieron titubear en su propósito; mas, pudiendo más su locura que otra razón alguna, propuso de hacerse armar caballero del primero que topase, a imitación de otros muchos que así lo hicieron, según él había leído en los libros que tal le tenían. En lo de las armas blancas, pensaba limpiarlas de manera, en teniendo lugar, que lo fuesen más que un armiño; y con esto se quietó y prosiguió su camino, sin llevar otro que aquel que su caballo quería, creyendo que en aquello consistía la fuerza de las aventuras.
@@ -988,7 +957,7 @@ Estando en esto, llegó acaso a la venta un castrador de puercos; y, así como l
 
 
 
-Capítulo III. Donde se cuenta la graciosa manera que tuvo don Quijote en armarse caballero
+ Donde se cuenta la graciosa manera que tuvo don Quijote en armarse caballero
 
 
 Y así, fatigado deste pensamiento, abrevió su venteril y limitada cena; la cual acabada, llamó al ventero, y, encerrándose con él en la caballeriza, se hincó de rodillas ante él, diciéndole:
@@ -1039,7 +1008,7 @@ Hechas, pues, de galope y aprisa las hasta allí nunca vistas ceremonias, no vio
 
 
 
-Capítulo IV. De lo que le sucedió a nuestro caballero cuando salió de la venta
+ De lo que le sucedió a nuestro caballero cuando salió de la venta
 
 
 La del alba sería cuando don Quijote salió de la venta, tan contento, tan gallardo, tan alborozado por verse ya armado caballero, que el gozo le reventaba por las cinchas del caballo. Mas, viniéndole a la memoria los consejos de su huésped cerca de las prevenciones tan necesarias que había de llevar consigo, especial la de los dineros y camisas, determinó volver a su casa y acomodarse de todo, y de un escudero, haciendo cuenta de recebir a un labrador vecino suyo, que era pobre y con hijos, pero muy a propósito para el oficio escuderil de la caballería. Con este pensamiento guió a Rocinante hacia su aldea, el cual, casi conociendo la querencia, con tanta gana comenzó a caminar, que parecía que no ponía los pies en el suelo.
@@ -1136,7 +1105,7 @@ Cansóse el mozo, y los mercaderes siguieron su camino, llevando qué contar en 
 
 
 
-Capítulo V. Donde se prosigue la narración de la desgracia de nuestro caballero
+ Donde se prosigue la narración de la desgracia de nuestro caballero
 
 
 Viendo, pues, que, en efeto, no podía menearse, acordó de acogerse a su ordinario remedio, que era pensar en algún paso de sus libros; y trújole su locura a la memoria aquel de Valdovinos y del marqués de Mantua, cuando Carloto le dejó herido en la montiña, historia sabida de los niños, no ignorada de los mozos, celebrada y aun creída de los viejos; y, con todo esto, no más verdadera que los milagros de Mahoma. Ésta, pues, le pareció a él que le venía de molde para el paso en que se hallaba; y así, con muestras de grande sentimiento, se comenzó a volcar por la tierra y a decir con debilitado aliento lo mesmo que dicen decía el herido caballero del bosque:
@@ -1201,7 +1170,7 @@ Hiciéronle a don Quijote mil preguntas, y a ninguna quiso responder otra cosa s
 
 
 
-Capítulo VI. Del donoso y grande escrutinio que el cura y el barbero hicieron en la librería de nuestro ingenioso hidalgo
+. Del donoso y grande escrutinio que el cura y el barbero hicieron en la librería de nuestro ingenioso hidalgo
 
 
 el cual aún todavía dormía. Pidió las llaves, a la sobrina, del aposento donde estaban los libros, autores del daño, y ella se las dio de muy buena gana. Entraron dentro todos, y la ama con ellos, y hallaron más de cien cuerpos de libros grandes, muy bien encuadernados, y otros pequeños; y, así como el ama los vio, volvióse a salir del aposento con gran priesa, y tornó luego con una escudilla de agua bendita y un hisopo, y dijo:
@@ -1338,7 +1307,7 @@ Cansóse el cura de ver más libros; y así, a carga cerrada, quiso que todos lo
 
 
 
-Capítulo VII. De la segunda salida de nuestro buen caballero don Quijote de la Mancha
+ De la segunda salida de nuestro buen caballero don Quijote de la Mancha
 
 
 Estando en esto, comenzó a dar voces don Quijote, diciendo:
@@ -1407,7 +1376,7 @@ A lo cual le respondió don Quijote:
 
 
 
-Capítulo VIII. Del buen suceso que el valeroso don Quijote tuvo en la espantable y jamás imaginada aventura de los molinos de viento, con otros sucesos dignos de felice recordación
+Del buen suceso que el valeroso don Quijote tuvo en la espantable y jamás imaginada aventura de los molinos de viento, con otros sucesos dignos de felice recordación
 
 
 En esto, descubrieron treinta o cuarenta molinos de viento que hay en aquel campo; y, así como don Quijote los vio, dijo a su escudero:
@@ -1518,7 +1487,7 @@ Segunda parte del ingenioso hidalgo don Quijote de la Mancha
 
 
 
-Capítulo IX. Donde se concluye y da fin a la estupenda batalla que el gallardo vizcaíno y el valiente manchego tuvieron
+ Donde se concluye y da fin a la estupenda batalla que el gallardo vizcaíno y el valiente manchego tuvieron
 
 
 Dejamos en la primera parte desta historia al valeroso vizcaíno y al famoso don Quijote con las espadas altas y desnudas, en guisa de descargar dos furibundos fendientes, tales que, si en lleno se acertaban, por lo menos se dividirían y fenderían de arriba abajo y abrirían como una granada; y que en aquel punto tan dudoso paró y quedó destroncada tan sabrosa historia, sin que nos diese noticia su autor dónde se podría hallar lo que della faltaba.
@@ -1560,8 +1529,7 @@ La temerosa y desconsolada señora, sin entrar en cuenta de lo que don Quijote p
 
 
 
-
-Capítulo X. De lo que más le avino a don Quijote con el vizcaíno, y del peligro en que se vio con una turba de yangüeses
+ De lo que más le avino a don Quijote con el vizcaíno, y del peligro en que se vio con una turba de yangüeses
 
 
 Ya en este tiempo se había levantado Sancho Panza, algo maltratado de los mozos de los frailes, y había estado atento a la batalla de su señor don Quijote, y rogaba a Dios en su corazón fuese servido de darle vitoria y que en ella ganase alguna ínsula de donde le hiciese gobernador, como se lo había prometido. Viendo, pues, ya acabada la pendencia, y que su amo volvía a subir sobre Rocinante, llegó a tenerle el estribo; y antes que subiese se hincó de rodillas delante dél, y, asiéndole de la mano, se la besó y le dijo:
@@ -1636,7 +1604,7 @@ Y, sacando, en esto, lo que dijo que traía, comieron los dos en buena paz y com
 
 
 
-Capítulo XI. De lo que le sucedió a don Quijote con unos cabreros
+ De lo que le sucedió a don Quijote con unos cabreros
 
 
 Fue recogido de los cabreros con buen ánimo; y, habiendo Sancho, lo mejor que pudo, acomodado a Rocinante y a su jumento, se fue tras el olor que despedían de sí ciertos tasajos de cabra que hirviendo al fuego en un caldero estaban; y, aunque él quisiera en aquel mesmo punto ver si estaban en sazón de trasladarlos del caldero al estómago, lo dejó de hacer, porque los cabreros los quitaron del fuego, y, tendiendo por el suelo unas pieles de ovejas, aderezaron con mucha priesa su rústica mesa y convidaron a los dos, con muestras de muy buena voluntad, con lo que tenían. Sentáronse a la redonda de las pieles seis dellos, que eran los que en la majada había, habiendo primero con groseras ceremonias rogado a don Quijote que se sentase sobre un dornajo que vuelto del revés le pusieron. Sentóse don Quijote, y quedábase Sancho en pie para servirle la copa, que era hecha de cuerno. Viéndole en pie su amo, le dijo:
@@ -1821,7 +1789,7 @@ Hizo Sancho lo que se le mandaba; y, viendo uno de los cabreros la herida, le di
 
 
 
-Capítulo XII. De lo que contó un cabrero a los que estaban con don Quijote
+De lo que contó un cabrero a los que estaban con don Quijote
 
 
 Estando en esto, llegó otro mozo de los que les traían del aldea el bastimento, y dijo:
@@ -1882,7 +1850,7 @@ Sancho Panza, que ya daba al diablo el tanto hablar del cabrero, solicitó, por 
 
 
 
-Capítulo XIII. Donde se da fin al cuento de la pastora Marcela, con otros sucesos
+ Donde se da fin al cuento de la pastora Marcela, con otros sucesos
 
 
 Mas, apenas comenzó a descubrirse el día por los balcones del oriente, cuando los cinco de los seis cabreros se levantaron y fueron a despertar a don Quijote, y a decille si estaba todavía con propósito de ir a ver el famoso entierro de Grisóstomo, y que ellos le harían compañía. Don Quijote, que otra cosa no deseaba, se levantó y mandó a Sancho que ensillase y enalbardase al momento, lo cual él hizo con mucha diligencia, y con la mesma se pusieron luego todos en camino. Y no hubieron andado un cuarto de legua, cuando, al cruzar de una senda, vieron venir hacia ellos hasta seis pastores, vestidos con pellicos negros y coronadas las cabezas con guirnaldas de ciprés y de amarga adelfa. Traía cada uno un grueso bastón de acebo en la mano. Venían con ellos, asimesmo, dos gentiles hombres de a caballo, muy bien aderezados de camino, con otros tres mozos de a pie que los acompañaban. En llegándose a juntar, se saludaron cortésmente, y, preguntándose los unos a los otros dónde iban, supieron que todos se encaminaban al lugar del entierro; y así, comenzaron a caminar todos juntos.
@@ -1985,7 +1953,7 @@ Y, como todos los circunstantes tenían el mesmo deseo, se le pusieron a la redo
 
 
 
-Capítulo XIV. Donde se ponen los versos desesperados del difunto pastor, con otros no esperados sucesos
+ Donde se ponen los versos desesperados del difunto pastor, con otros no esperados sucesos
 
 
 Canción de Grisóstomo
@@ -2302,7 +2270,7 @@ Tercera parte del ingenioso hidalgo don Quijote de la Mancha
 
 
 
-Capítulo XV. Donde se cuenta la desgraciada aventura que se topó don Quijote en topar con unos desalmados yangüeses
+ Donde se cuenta la desgraciada aventura que se topó don Quijote en topar con unos desalmados yangüeses
 
 
 Cuenta el sabio Cide Hamete Benengeli que, así como don Quijote se despidió de sus huéspedes y de todos los que se hallaron al entierro del pastor Grisóstomo, él y su escudero se entraron por el mesmo bosque donde vieron que se había entrado la pastora Marcela; y, habiendo andado más de dos horas por él, buscándola por todas partes sin poder hallarla, vinieron a parar a un prado lleno de fresca yerba, junto del cual corría un arroyo apacible y fresco; tanto, que convidó y forzó a pasar allí las horas de la siesta, que rigurosamente comenzaba ya a entrar.
@@ -2389,7 +2357,7 @@ En resolución, Sancho acomodó a don Quijote sobre el asno y puso de reata a Ro
 
 
 
-Capítulo XVI. De lo que le sucedió al ingenioso hidalgo en la venta que él imaginaba ser castillo
+ De lo que le sucedió al ingenioso hidalgo en la venta que él imaginaba ser castillo
 
 
 El ventero, que vio a don Quijote atravesado en el asno, preguntó a Sancho qué mal traía. Sancho le respondió que no era nada, sino que había dado una caída de una peña abajo, y que venía algo brumadas las costillas. Tenía el ventero por mujer a una, no de la condición que suelen tener las de semejante trato, porque naturalmente era caritativa y se dolía de las calamidades de sus prójimos; y así, acudió luego a curar a don Quijote y hizo que una hija suya, doncella, muchacha y de muy buen parecer, la ayudase a curar a su huésped. Servía en la venta, asimesmo, una moza asturiana, ancha de cara, llana de cogote, de nariz roma, del un ojo tuerta y del otro no muy sana. Verdad es que la gallardía del cuerpo suplía las demás faltas: no tenía siete palmos de los pies a la cabeza, y las espaldas, que algún tanto le cargaban, la hacían mirar al suelo más de lo que ella quisiera. Esta gentil moza, pues, ayudó a la doncella, y las dos hicieron una muy mala cama a don Quijote en un camaranchón que, en otros tiempos, daba manifiestos indicios que había servido de pajar muchos años. En la cual también alojaba un arriero, que tenía su cama hecha un poco más allá de la de nuestro don Quijote. Y, aunque era de las enjalmas y mantas de sus machos, hacía mucha ventaja a la de don Quijote, que sólo contenía cuatro mal lisas tablas, sobre dos no muy iguales bancos, y un colchón que en lo sutil parecía colcha, lleno de bodoques, que, a no mostrar que eran de lana por algunas roturas, al tiento, en la dureza, semejaban de guijarro, y dos sábanas hechas de cuero de adarga, y una frazada, cuyos hilos, si se quisieran contar, no se perdiera uno solo de la cuenta. En esta maldita cama se acostó don Quijote, y luego la ventera y su hija le emplastaron de arriba abajo, alumbrándoles Maritornes, que así se llamaba la asturiana; y, como al bizmalle viese la ventera tan acardenalado a partes a don Quijote, dijo que aquello más parecían golpes que caída.
@@ -2464,7 +2432,7 @@ Esta voz sobresaltó a todos, y cada cual dejó la pendencia en el grado que le 
 
 
 
-Capítulo XVII. Donde se prosiguen los innumerables trabajos que el bravo don Quijote y su buen escudero Sancho Panza pasaron en la venta que, por su mal, pensó que era castillo
+ Donde se prosiguen los innumerables trabajos que el bravo don Quijote y su buen escudero Sancho Panza pasaron en la venta que, por su mal, pensó que era castillo
 
 
 Había ya vuelto en este tiempo de su parasismo don Quijote, y, con el mesmo tono de voz con que el día antes había llamado a su escudero, cuando estaba tendido en el val de las estacas, le comenzó a llamar, diciendo:
@@ -2567,7 +2535,7 @@ Así como bebió Sancho, dio de los carcaños a su asno, y, abriéndole la puert
 
 
 
-Capítulo XVIII. Donde se cuentan las razones que pasó Sancho Panza con su señor Don Quijote, con otras aventuras dignas de ser contadas
+Donde se cuentan las razones que pasó Sancho Panza con su señor Don Quijote, con otras aventuras dignas de ser contadas
 
 
 Llegó Sancho a su amo marchito y desmayado; tanto, que no podía arrear a su jumento. Cuando así le vio don Quijote, le dijo:
@@ -2680,7 +2648,7 @@ Hízolo así Sancho, y encaminóse hacia donde le pareció que podía hallar aco
 
 
 
-Capítulo XIX. De las discretas razones que Sancho pasaba con su amo, y de la aventura que le sucedió con un cuerpo muerto, con otros acontecimientos famosos
+ De las discretas razones que Sancho pasaba con su amo, y de la aventura que le sucedió con un cuerpo muerto, con otros acontecimientos famosos
 
 
 — Paréceme, señor mío, que todas estas desventuras que estos días nos han sucedido, sin duda alguna han sido pena del pecado cometido por vuestra merced contra la orden de su caballería, no habiendo cumplido el juramento que hizo de no comer pan a manteles ni con la reina folgar, con todo aquello que a esto se sigue y vuestra merced juró de cumplir, hasta quitar aquel almete de Malandrino, o como se llama el moro, que no me acuerdo bien.
@@ -2771,7 +2739,7 @@ En oyendo esto el bachiller, se fue, como queda dicho, sin replicarle palabra. Q
 
 
 
-Capítulo XX. De la jamás vista ni oída aventura que con más poco peligro fue acabada de famoso caballero en el mundo, como la que acabó el valeroso don Quijote de la Mancha
+ De la jamás vista ni oída aventura que con más poco peligro fue acabada de famoso caballero en el mundo, como la que acabó el valeroso don Quijote de la Mancha
 
 
 — No es posible, señor mío, sino que estas yerbas dan testimonio de que por aquí cerca debe de estar alguna fuente o arroyo que estas yerbas humedece; y así, será bien que vamos un poco más adelante, que ya toparemos donde podamos mitigar esta terrible sed que nos fatiga, que, sin duda, causa mayor pena que la hambre.
@@ -2900,7 +2868,7 @@ Viendo, pues, don Quijote que Sancho hacía burla dél, se corrió y enojó en t
 
 
 
-Capítulo XXI. Que trata de la alta aventura y rica ganancia del yelmo de Mambrino, con otras cosas sucedidas a nuestro invencible caballero
+. Que trata de la alta aventura y rica ganancia del yelmo de Mambrino, con otras cosas sucedidas a nuestro invencible caballero
 
 
 En esto, comenzó a llover un poco, y quisiera Sancho que se entraran en el molino de los batanes; mas habíales cobrado tal aborrecimiento don Quijote, por la pesada burla, que en ninguna manera quiso entrar dentro; y así, torciendo el camino a la derecha mano, dieron en otro como el que habían llevado el día de antes.
@@ -3007,7 +2975,7 @@ Y, alzando los ojos, vio lo que se dirá en el siguiente capítulo.
 
 
 
-Capítulo XXII. De la libertad que dio don Quijote a muchos desdichados que, mal de su grado, los llevaban donde no quisieran ir
+ De la libertad que dio don Quijote a muchos desdichados que, mal de su grado, los llevaban donde no quisieran ir
 
 
 Cuenta Cide Hamete Benengeli, autor arábigo y manchego, en esta gravísima, altisonante, mínima, dulce e imaginada historia que, después que entre el famoso don Quijote de la Mancha y Sancho Panza, su escudero, pasaron aquellas razones que en el fin del capítulo veinte y uno quedan referidas, que don Quijote alzó los ojos y vio que por el camino que llevaba venían hasta doce hombres a pie, ensartados, como cuentas, en una gran cadena de hierro por los cuellos, y todos con esposas a las manos. Venían ansimismo con ellos dos hombres de a caballo y dos de a pie; los de a caballo, con escopetas de rueda, y los de a pie, con dardos y espadas; y que así como Sancho Panza los vido, dijo:
@@ -3148,7 +3116,7 @@ Solos quedaron jumento y Rocinante, Sancho y Don Quijote; el jumento, cabizbajo 
 
 
 
-Capítulo XXIII. De lo que le aconteció al famoso don Quijote en Sierra Morena, que fue una de las más raras aventuras que en esta verdadera historia se cuentan
+De lo que le aconteció al famoso don Quijote en Sierra Morena, que fue una de las más raras aventuras que en esta verdadera historia se cuentan
 
 
 Viéndose tan malparado don Quijote, dijo a su escudero:
@@ -3274,8 +3242,7 @@ En llegando el mancebo a ellos, les saludó con una voz desentonada y bronca, pe
 
 
 
-
-Capítulo XXIV. Donde se prosigue la aventura de la Sierra Morena
+ Donde se prosigue la aventura de la Sierra Morena
 
 
 Dice la historia que era grandísima la atención con que don Quijote escuchaba al astroso Caballero de la Sierra, el cual, prosiguiendo su plática, dijo:
@@ -3334,7 +3301,7 @@ Con esto los apaciguó, y don Quijote volvió a preguntar al cabrero si sería p
 
 
 
-Capítulo XXV. Que trata de las estrañas cosas que en Sierra Morena sucedieron al valiente caballero de la Mancha, y de la imitación que hizo a la penitencia de Beltenebros
+ Que trata de las estrañas cosas que en Sierra Morena sucedieron al valiente caballero de la Mancha, y de la imitación que hizo a la penitencia de Beltenebros
 
 
 Despidióse del cabrero don Quijote, y, subiendo otra vez sobre Rocinante, mandó a Sancho que le siguiese, el cual lo hizo, con su jumento, de muy mala gana. Íbanse poco a poco entrando en lo más áspero de la montaña, y Sancho iba muerto por razonar con su amo, y deseaba que él comenzase la plática, por no contravenir a lo que le tenía mandado; mas, no pudiendo sufrir tanto silencio, le dijo:
@@ -3489,7 +3456,7 @@ Y, desnudándose con toda priesa las calzones, quedó en carnes y en pañales, y
 
 
 
-Capítulo XXVI. Donde se prosiguen las finezas que de enamorado hizo don Quijote en Sierra Morena
+ Donde se prosiguen las finezas que de enamorado hizo don Quijote en Sierra Morena
 
 
 Y, volviendo a contar lo que hizo el de la Triste Figura después que se vio solo, dice la historia que, así como don Quijote acabó de dar las tumbas o vueltas, de medio abajo desnudo y de medio arriba vestido, y que vio que Sancho se había ido sin querer aguardar a ver más sandeces, se subió sobre una punta de una alta peña y allí tornó a pensar lo que otras muchas veces había pensado, sin haberse jamás resuelto en ello. Y era que cuál sería mejor y le estaría más a cuento: imitar a Roldán en las locuras desaforadas que hizo, o Amadís en las malencónicas. Y, hablando entre sí mesmo, decía: — Si Roldán fue tan buen caballero y tan valiente como todos dicen, ¿qué maravilla?, pues, al fin, era encantado y no le podía matar nadie si no era metiéndole un alfiler de a blanca por la planta del pie, y él traía siempre los zapatos con siete suelas de hierro. Aunque no le valieron tretas contra Bernardo del Carpio, que se las entendió y le ahogó entre los brazos, en Roncesvalles. Pero, dejando en él lo de la valentía a una parte, vengamos a lo de perder el juicio, que es cierto que le perdió, por las señales que halló en la fontana y por las nuevas que le dio el pastor de que Angélica había dormido más de dos siestas con Medoro, un morillo de cabellos enrizados y paje de Agramante; y si él entendió que esto era verdad y que su dama le había cometido desaguisado, no hizo mucho en volverse loco. Pero yo, ¿cómo puedo imitalle en las locuras, si no le imito en la ocasión dellas? Porque mi Dulcinea del Toboso osaré yo jurar que no ha visto en todos los días de su vida moro alguno, ansí como él es, en su mismo traje, y que se está hoy como la madre que la parió; y haríale agravio manifiesto si, imaginando otra cosa della, me volviese loco de aquel género de locura de Roldán el furioso. Por otra parte, veo que Amadís de Gaula, sin perder el juicio y sin hacer locuras, alcanzó tanta fama de enamorado como el que más; porque lo que hizo, según su historia, no fue más de que, por verse desdeñado de su señora Oriana, que le había mandado que no pareciese ante su presencia hasta que fuese su voluntad, de que se retiró a la Peña Pobre en compañía de un ermitaño, y allí se hartó de llorar y de encomendarse a Dios, hasta que el cielo le acorrió, en medio de su mayor cuita y necesidad. Y si esto es verdad, como lo es, ¿para qué quiero yo tomar trabajo agora de desnudarme del todo, ni dar pesadumbre a estos árboles, que no me han hecho mal alguno? Ni tengo para qué enturbiar el agua clara destos arroyos, los cuales me han de dar de beber cuando tenga gana. Viva la memoria de Amadís, y sea imitado de don Quijote de la Mancha en todo lo que pudiere; del cual se dirá lo que del otro se dijo: que si no acabó grandes cosas, murió por acometellas; y si yo no soy desechado ni desdeñado de Dulcinea del Toboso, bástame, como ya he dicho, estar ausente della. Ea, pues, manos a la obra: venid a mi memoria, cosas de Amadís, y enseñadme por dónde tengo de comenzar a imitaros. Mas ya sé que lo más que él hizo fue rezar y encomendarse a Dios; pero, ¿qué haré de rosario, que no le tengo? En esto le vino al pensamiento cómo le haría, y fue que rasgó una gran tira de las faldas de la camisa, que andaban colgando, y diole once ñudos, el uno más gordo que los demás, y esto le sirvió de rosario el tiempo que allí estuvo, donde rezó un millón de avemarías. Y lo que le fatigaba mucho era no hallar por allí otro ermitaño que le confesase y con quien consolarse. Y así, se entretenía paseándose por el pradecillo, escribiendo y grabando por las cortezas de los árboles y por la menuda arena muchos versos, todos acomodados a su tristeza, y algunos en alabanza de Dulcinea. Mas los que se pudieron hallar enteros y que se pudiesen leer, después que a él allí le hallaron, no fueron más que estos que aquí se siguen:
@@ -3614,7 +3581,7 @@ Sancho dijo que entrasen ellos, que él esperaría allí fuera y que después le
 
 
 
-Capítulo XXVII. De cómo salieron con su intención el cura y el barbero, con otras cosas dignas de que se cuenten en esta grande historia
+. De cómo salieron con su intención el cura y el barbero, con otras cosas dignas de que se cuenten en esta grande historia
 
 
 No le pareció mal al barbero la invención del cura, sino tan bien, que luego la pusieron por obra. Pidiéronle a la ventera una saya y unas tocas, dejándole en prendas una sotana nueva del cura. El barbero hizo una gran barba de una cola rucia o roja de buey, donde el ventero tenía colgado el peine. Preguntóles la ventera que para qué le pedían aquellas cosas. El cura le contó en breves razones la locura de don Quijote, y cómo convenía aquel disfraz para sacarle de la montaña, donde a la sazón estaba. Cayeron luego el ventero y la ventera en que el loco era su huésped, el del bálsamo, y el amo del manteado escudero, y contaron al cura todo lo que con él les había pasado, sin callar lo que tanto callaba Sancho. En resolución, la ventera vistió al cura de modo que no había más que ver: púsole una saya de paño, llena de fajas de terciopelo negro de un palmo en ancho, todas acuchilladas, y unos corpiños de terciopelo verde, guarnecidos con unos ribetes de raso blanco, que se debieron de hacer, ellos y la saya, en tiempo del rey Wamba. No consintió el cura que le tocasen, sino púsose en la cabeza un birretillo de lienzo colchado que llevaba para dormir de noche, y ciñóse por la frente una liga de tafetán negro, y con otra liga hizo un antifaz, con que se cubrió muy bien las barbas y el rostro; encasquetóse su sombrero, que era tan grande que le podía servir de quitasol, y, cubriéndose su herreruelo, subió en su mula a mujeriegas, y el barbero en la suya, con su barba que le llegaba a la cintura, entre roja y blanca, como aquella que, como se ha dicho, era hecha de la cola de un buey barroso.
@@ -3771,7 +3738,7 @@ Cuarta parte del ingenioso hidalgo don Quijote de la Mancha
 
 
 
-Capítulo XXVIII. Que trata de la nueva y agradable aventura que al cura y barbero sucedió en la mesma sierra
+ Que trata de la nueva y agradable aventura que al cura y barbero sucedió en la mesma sierra
 
 
 Felicísimos y venturosos fueron los tiempos donde se echó al mundo el audacísimo caballero don Quijote de la Mancha, pues por haber tenido tan honrosa determinación como fue el querer resucitar y volver al mundo la ya perdida y casi muerta orden de la andante caballería, gozamos ahora, en esta nuestra edad, necesitada de alegres entretenimientos, no sólo de la dulzura de su verdadera historia, sino de los cuentos y episodios della, que, en parte, no son menos agradables y artificiosos y verdaderos que la misma historia; la cual, prosiguiendo su rastrillado, torcido y aspado hilo, cuenta que, así como el cura comenzó a prevenirse para consolar a Cardenio, lo impidió una voz que llegó a sus oídos, que, con tristes acentos, decía desta manera:
@@ -3832,7 +3799,7 @@ Oyó Cardenio el nombre de Luscinda, y no hizo otra cosa que encoger los hombros
 
 
 
-Capítulo XXIX. Que trata de la discreción de la hermosa Dorotea, con otras cosas de mucho gusto y pasatiempo
+ Que trata de la discreción de la hermosa Dorotea, con otras cosas de mucho gusto y pasatiempo
 
 
 — Esta es, señores, la verdadera historia de mi tragedia: mirad y juzgad ahora si los suspiros que escuchastes, las palabras que oístes y las lágrimas que de mis ojos salían, tenían ocasión bastante para mostrarse en mayor abundancia; y, considerada la calidad de mi desgracia, veréis que será en vano el consuelo, pues es imposible el remedio della. Sólo os ruego (lo que con facilidad podréis y debéis hacer) que me aconsejéis dónde podré pasar la vida sin que me acabe el temor y sobresalto que tengo de ser hallada de los que me buscan; que, aunque sé que el mucho amor que mis padres me tienen me asegura que seré dellos bien recebida, es tanta la vergüenza que me ocupa sólo el pensar que, no como ellos pensaban, tengo de parecer a su presencia, que tengo por mejor desterrarme para siempre de ser vista que no verles el rostro, con pensamiento que ellos miran el mío ajeno de la honestidad que de mí se debían de tener prometida.
@@ -3942,8 +3909,7 @@ Habíales contado Sancho al cura y al barbero la aventura de los galeotes, que a
 
 
 
-
-Capítulo XXX. Que trata del gracioso artificio y orden que se tuvo en sacar a nuestro enamorado caballero de la asperísima penitencia en que se había puesto
+ Que trata del gracioso artificio y orden que se tuvo en sacar a nuestro enamorado caballero de la asperísima penitencia en que se había puesto
 
 
 No hubo bien acabado el cura, cuando Sancho dijo:
@@ -4062,7 +4028,8 @@ En tanto que ellos iban en esta conversación, prosiguió don Quijote con la suy
 
 
 
-Capítulo XXXI. De los sabrosos razonamientos que pasaron entre don Quijote y Sancho Panza, su escudero, con otros sucesos
+
+ De los sabrosos razonamientos que pasaron entre don Quijote y Sancho Panza, su escudero, con otros sucesos
 
 
 — Todo eso no me descontenta; prosigue adelante —dijo don Quijote—. Llegaste, ¿y qué hacía aquella reina de la hermosura? A buen seguro que la hallaste ensartando perlas, o bordando alguna empresa con oro de cañutillo para este su cautivo caballero.
@@ -4167,7 +4134,7 @@ Andrés asió de su pan y queso, y, viendo que nadie le daba otra cosa, abajó s
 
 
 
-Capítulo XXXII. Que trata de lo que sucedió en la venta a toda la cuadrilla de don Quijote
+ Que trata de lo que sucedió en la venta a toda la cuadrilla de don Quijote
 
 
 Acabóse la buena comida, ensillaron luego, y, sin que les sucediese cosa digna de contar, llegaron otro día a la venta, espanto y asombro de Sancho Panza; y, aunque él quisiera no entrar en ella, no lo pudo huir. La ventera, ventero, su hija y Maritornes, que vieron venir a don Quijote y a Sancho, les salieron a recebir con muestras de mucha alegría, y él las recibió con grave continente y aplauso, y díjoles que le aderezasen otro mejor lecho que la vez pasada; a lo cual le respondió la huéspeda que como la pagase mejor que la otra vez, que ella se la daría de príncipes. Don Quijote dijo que sí haría, y así, le aderezaron uno razonable en el mismo caramanchón de marras, y él se acostó luego, porque venía muy quebrantado y falto de juicio.
@@ -4262,7 +4229,7 @@ Acudió maese Nicolás a rogarle lo mesmo, y Sancho también; lo cual visto del 
 
 
 
-Capítulo XXXIII. Donde se cuenta la novela del Curioso impertinente
+Donde se cuenta la novela del Curioso impertinente
 
 
 «En Florencia, ciudad rica y famosa de Italia, en la provincia que llaman Toscana, vivían Anselmo y Lotario, dos caballeros ricos y principales, y tan amigos que, por excelencia y antonomasia, de todos los que los conocían los dos amigos eran llamados. Eran solteros, mozos de una misma edad y de unas mismas costumbres; todo lo cual era bastante causa a que los dos con recíproca amistad se correspondiesen. Bien es verdad que el Anselmo era algo más inclinado a los pasatiempos amorosos que el Lotario, al cual llevaban tras sí los de la caza; pero, cuando se ofrecía, dejaba Anselmo de acudir a sus gustos por seguir los de Lotario, y Lotario dejaba los suyos por acudir a los de Anselmo; y, desta manera, andaban tan a una sus voluntades, que no había concertado reloj que así lo anduviese. »Andaba Anselmo perdido de amores de una doncella principal y hermosa de la misma ciudad, hija de tan buenos padres y tan buena ella por sí, que se determinó, con el parecer de su amigo Lotario, sin el cual ninguna cosa hacía, de pedilla por esposa a sus padres, y así lo puso en ejecución; y el que llevó la embajada fue Lotario, y el que concluyó el negocio tan a gusto de su amigo, que en breve tiempo se vio puesto en la posesión que deseaba, y Camila tan contenta de haber alcanzado a Anselmo por esposo, que no cesaba de dar gracias al cielo, y a Lotario, por cuyo medio tanto bien le había venido.
@@ -4387,7 +4354,7 @@ lo posible aun no me den.
 
 
 
-Capítulo XXXIV. Donde se prosigue la novela del Curioso impertinente
+ Donde se prosigue la novela del Curioso impertinente
 
 
 »Así como suele decirse que parece mal el ejército sin su general y el castillo sin su castellano, digo yo que parece muy peor la mujer casada y moza sin su marido, cuando justísimas ocasiones no lo impiden. Yo me hallo tan mal sin vos, y tan imposibilitada de no poder sufrir esta ausencia, que si presto no venís, me habré de ir a entretener en casa de mis padres, aunque deje sin guarda la vuestra; porque la que me dejastes, si es que quedó con tal título, creo que mira más por su gusto que por lo que a vos os toca; y, pues sois discreto, no tengo más que deciros, ni aun es bien que más os diga.
@@ -4574,7 +4541,7 @@ adonde norte o puerto no se ofrece!
 
 
 
-Capítulo XXXV. Donde se da fin a la novela del Curioso impertinente
+ Donde se da fin a la novela del Curioso impertinente
 
 
 Poco más quedaba por leer de la novela, cuando del caramanchón donde reposaba don Quijote salió Sancho Panza todo alborotado, diciendo a voces:
@@ -4667,7 +4634,7 @@ Un necio e impertinente deseo me quitó la vida. Si las nuevas de mi muerte lleg
 
 
 
-Capítulo XXXVI. Que trata de la brava y descomunal batalla que don Quijote tuvo con unos cueros de vino tinto, con otros raros sucesos que en la venta le sucedieron
+ Que trata de la brava y descomunal batalla que don Quijote tuvo con unos cueros de vino tinto, con otros raros sucesos que en la venta le sucedieron
 
 
 Estando en esto, el ventero, que estaba a la puerta de la venta, dijo:
@@ -4754,7 +4721,7 @@ Preguntó luego a Dorotea le dijese cómo había venido a aquel lugar tan lejos 
 
 
 
-Capítulo XXXVII. Que prosigue la historia de la famosa infanta Micomicona, con otras graciosas aventuras
+ Que prosigue la historia de la famosa infanta Micomicona, con otras graciosas aventuras
 
 
 Todo esto escuchaba Sancho, no con poco dolor de su ánima, viendo que se le desparecían e iban en humo las esperanzas de su ditado, y que la linda princesa Micomicona se le había vuelto en Dorotea, y el gigante en don Fernando, y su amo se estaba durmiendo a sueño suelto, bien descuidado de todo lo sucedido. No se podía asegurar Dorotea si era soñado el bien que poseía. Cardenio estaba en el mismo pensamiento, y el de Luscinda corría por la misma cuenta. Don Fernando daba gracias al cielo por la merced recebida y haberle sacado de aquel intricado laberinto, donde se hallaba tan a pique de perder el crédito y el alma; y, finalmente, cuantos en la venta estaban, estaban contentos y gozosos del buen suceso que habían tenido tan trabados y desesperados negocios.
@@ -4863,7 +4830,7 @@ De tal manera, y por tan buenos términos, iba prosiguiendo en su plática don Q
 
 
 
-Capítulo XXXVIII. Que trata del curioso discurso que hizo don Quijote de las armas y las letras
+Que trata del curioso discurso que hizo don Quijote de las armas y las letras
 
 
 Prosiguiendo don Quijote, dijo:
@@ -4882,7 +4849,7 @@ Con esto que dijo, hizo que todos se acomodasen y le prestasen un grande silenci
 
 
 
-Capítulo XXXIX. Donde el cautivo cuenta su vida y sucesos
+ Donde el cautivo cuenta su vida y sucesos
 
 
 — «En un lugar de las Montañas de León tuvo principio mi linaje, con quien fue más agradecida y liberal la naturaleza que la fortuna, aunque, en la estrecheza de aquellos pueblos, todavía alcanzaba mi padre fama de rico, y verdaderamente lo fuera si así se diera maña a conservar su hacienda como se la daba en gastalla. Y la condición que tenía de ser liberal y gastador le procedió de haber sido soldado los años de su joventud, que es escuela la soldadesca donde el mezquino se hace franco, y el franco, pródigo; y si algunos soldados se hallan miserables, son como monstruos, que se ven raras veces. Pasaba mi padre los términos de la liberalidad, y rayaba en los de ser pródigo: cosa que no le es de ningún provecho al hombre casado, y que tiene hijos que le han de suceder en el nombre y en el ser. Los que mi padre tenía eran tres, todos varones y todos de edad de poder elegir estado. Viendo, pues, mi padre que, según él decía, no podía irse a la mano contra su condición, quiso privarse del instrumento y causa que le hacía gastador y dadivoso, que fue privarse de la hacienda, sin la cual el mismo Alejandro pareciera estrecho.
@@ -4927,7 +4894,7 @@ En el punto que el cautivo nombró a don Pedro de Aguilar, don Fernando miró a 
 
 
 
-Capítulo XL. Donde se prosigue la historia del cautivo
+ Donde se prosigue la historia del cautivo
 
 
 Soneto
@@ -5044,7 +5011,7 @@ Yo no sé, mi señor, cómo dar orden que nos vamos a España, ni Lela Marién m
 
 
 
-Capítulo XLI. Donde todavía prosigue el cautivo su suceso
+ Donde todavía prosigue el cautivo su suceso
 
 
 »No se pasaron quince días, cuando ya nuestro renegado tenía comprada una muy buena barca, capaz de más de treinta personas: y, para asegurar su hecho y dalle color, quiso hacer, como hizo, un viaje a un lugar que se llamaba Sargel, que está treinta leguas de Argel hacia la parte de Orán, en el cual hay mucha contratación de higos pasos. Dos o tres veces hizo este viaje, en compañía del tagarino que había dicho. Tagarinos llaman en Berbería a los moros de Aragón, y a los de Granada, mudéjares; y en el reino de Fez llaman a los mudéjares elches, los cuales son la gente de quien aquel rey más se sirve en la guerra.
@@ -5109,7 +5076,7 @@ Capítulo XLI. Donde todavía prosigue el cautivo su suceso
 
 
 
-Capítulo XLII. Que trata de lo que más sucedió en la venta y de otras muchas cosas dignas de saberse
+ Que trata de lo que más sucedió en la venta y de otras muchas cosas dignas de saberse
 
 
 Calló, en diciendo esto, el cautivo, a quien don Fernando dijo:
@@ -5186,7 +5153,7 @@ Y, con esto, se fue Cardenio; y Dorotea, poniendo toda la atención posible, ent
 
 
 
-Capítulo XLIII. Donde se cuenta la agradable historia del mozo de mulas, con otros estraños acaecimientos en la venta sucedidos]
+ Donde se cuenta la agradable historia del mozo de mulas, con otros estraños acaecimientos en la venta sucedidos]
 
 
 -Marinero soy de amor,
@@ -5371,7 +5338,7 @@ Cansábanse los compañeros que con el preguntante venían del coloquio que con 
 
 
 
-Capítulo XLIV. Donde se prosiguen los inauditos sucesos de la venta
+ Donde se prosiguen los inauditos sucesos de la venta
 
 
 En efeto, fueron tantas las voces que don Quijote dio, que, abriendo de presto las puertas de la venta, salió el ventero, despavorido, a ver quién tales gritos daba, y los que estaban fuera hicieron lo mesmo. Maritornes, que ya había despertado a las mismas voces, imaginando lo que podía ser, se fue al pajar y desató, sin que nadie lo viese, el cabestro que a don Quijote sostenía, y él dio luego en el suelo, a vista del ventero y de los caminantes, que, llegándose a él, le preguntaron qué tenía, que tales voces daba. Él, sin responder palabra, se quitó el cordel de la muñeca, y, levantándose en pie, subió sobre Rocinante, embrazó su adarga, enristró su lanzón, y, tomando buena parte del campo, volvió a medio galope, diciendo:
@@ -5496,7 +5463,7 @@ Sancho fue a do estaba la bacía y la trujo; y, así como don Quijote la vio, la
 
 
 
-Capítulo XLV. Donde se acaba de averiguar la duda del yelmo de Mambrino y de la albarda, y otras aventuras sucedidas, con toda verdad
+ Donde se acaba de averiguar la duda del yelmo de Mambrino y de la albarda, y otras aventuras sucedidas, con toda verdad
 
 
 — ¿Qué les parece a vuestras mercedes, señores —dijo el barbero—, de lo que afirman estos gentiles hombres, pues aún porfían que ésta no es bacía, sino yelmo?
@@ -5581,7 +5548,7 @@ Don Fernando despartió al cuadrillero y a don Quijote, y, con gusto de entrambo
 
 
 
-Capítulo XLVI. De la notable aventura de los cuadrilleros, y la gran ferocidad de nuestro buen caballero don Quijote
+. De la notable aventura de los cuadrilleros, y la gran ferocidad de nuestro buen caballero don Quijote
 
 
 En tanto que don Quijote esto decía, estaba persuadiendo el cura a los cuadrilleros como don Quijote era falto de juicio, como lo veían por sus obras y por sus palabras, y que no tenían para qué llevar aquel negocio adelante, pues, aunque le prendiesen y llevasen, luego le habían de dejar por loco; a lo que respondió el del mandamiento que a él no tocaba juzgar de la locura de don Quijote, sino hacer lo que por su mayor le era mandado, y que una vez preso, siquiera le soltasen trecientas.
@@ -5664,7 +5631,7 @@ Luego tomaron la jaula en hombros aquellas visiones, y la acomodaron en el carro
 
 
 
-Capítulo XLVII. Del estraño modo con que fue encantado don Quijote de la Mancha, con otros famosos sucesos
+ Del estraño modo con que fue encantado don Quijote de la Mancha, con otros famosos sucesos
 
 
 Cuando don Quijote se vio de aquella manera enjaulado y encima del carro, dijo:
@@ -5737,7 +5704,7 @@ El cura le estuvo escuchando con grande atención, y parecióle hombre de buen e
 
 
 
-Capítulo XLVIII. Donde prosigue el canónigo la materia de los libros de caballerías, con otras cosas dignas de su ingenio
+ Donde prosigue el canónigo la materia de los libros de caballerías, con otras cosas dignas de su ingenio
 
 
 — Así es como vuestra merced dice, señor canónigo —dijo el cura—, y por esta causa son más dignos de reprehensión los que hasta aquí han compuesto semejantes libros sin tener advertencia a ningún buen discurso, ni al arte y reglas por donde pudieran guiarse y hacerse famosos en prosa, como lo son en verso los dos príncipes de la poesía griega y latina.
@@ -5785,8 +5752,7 @@ En tanto que esto pasaba, viendo Sancho que podía hablar a su amo sin la contin
 
 
 
-
-Capítulo XLIX. Donde se trata del discreto coloquio que Sancho Panza tuvo con su señor don Quijote
+ Donde se trata del discreto coloquio que Sancho Panza tuvo con su señor don Quijote
 
 
 — ¡Ah —dijo Sancho—; cogido le tengo! Esto es lo que yo deseaba saber, como al alma y como a la vida. Venga acá, señor: ¿podría negar lo que comúnmente suele decirse por ahí cuando una persona está de mala voluntad: "No sé qué tiene fulano, que ni come, ni bebe, ni duerme, ni responde a propósito a lo que le preguntan, que no parece sino que está encantado"? De donde se viene a sacar que los que no comen, ni beben, ni duermen, ni hacen las obras naturales que yo digo, estos tales están encantados; pero no aquellos que tienen la gana que vuestra merced tiene y que bebe cuando se lo dan, y come cuando lo tiene, y responde a todo aquello que le preguntan.
@@ -5846,8 +5812,7 @@ Admirado quedó el canónigo de oír la mezcla que don Quijote hacía de verdade
 
 
 
-
-Capítulo L. De las discretas altercaciones que don Quijote y el canónigo tuvieron, con otros sucesos
+. De las discretas altercaciones que don Quijote y el canónigo tuvieron, con otros sucesos
 
 
 — ¡Bueno está eso! —respondió don Quijote—. Los libros que están impresos con licencia de los reyes y con aprobación de aquellos a quien se remitieron, y que con gusto general son leídos y celebrados de los grandes y de los chicos, de los pobres y de los ricos, de los letrados e ignorantes, de los plebeyos y caballeros, finalmente, de todo género de personas, de cualquier estado y condición que sean, ¿habían de ser mentira?; y más llevando tanta apariencia de verdad, pues nos cuentan el padre, la madre, la patria, los parientes, la edad, el lugar y las hazañas, punto por punto y día por día, que el tal caballero hizo, o caballeros hicieron. Calle vuestra merced, no diga tal blasfemia (y créame que le aconsejo en esto lo que debe de hacer como discreto), sino léalos, y verá el gusto que recibe de su leyenda. Si no, dígame: ¿hay mayor contento que ver, como si dijésemos: aquí ahora se muestra delante de nosotros un gran lago de pez hirviendo a borbollones, y que andan nadando y cruzando por él muchas serpientes, culebras y lagartos, y otros muchos géneros de animales feroces y espantables, y que del medio del lago sale una voz tristísima que dice: ''Tú, caballero, quienquiera que seas, que el temeroso lago estás mirando, si quieres alcanzar el bien que debajo destas negras aguas se encubre, muestra el valor de tu fuerte pecho y arrójate en mitad de su negro y encendido licor; porque si así no lo haces, no serás digno de ver las altas maravillas que en sí encierran y contienen los siete castillos de las siete fadas que debajo desta negregura yacen?'' ¿Y que, apenas el caballero no ha acabado de oír la voz temerosa, cuando, sin entrar más en cuentas consigo, sin ponerse a considerar el peligro a que se pone, y aun sin despojarse de la pesadumbre de sus fuertes armas, encomendándose a Dios y a su señora, se arroja en mitad del bullente lago, y, cuando no se cata ni sabe dónde ha de parar, se halla entre unos floridos campos, con quien los Elíseos no tienen que ver en ninguna cosa? Allí le parece que el cielo es más transparente, y que el sol luce con claridad más nueva; ofrécesele a los ojos una apacible floresta de tan verdes y frondosos árboles compuesta, que alegra a la vista su verdura, y entretiene los oídos el dulce y no aprendido canto de los pequeños, infinitos y pintados pajarillos que por los intricados ramos van cruzando. Aquí descubre un arroyuelo, cuyas frescas aguas, que líquidos cristales parecen, corren sobre menudas arenas y blancas pedrezuelas, que oro cernido y puras perlas semejan; acullá vee una artificiosa fuente de jaspe variado y de liso mármol compuesta; acá vee otra a lo brutesco adornada, adonde las menudas conchas de las almejas, con las torcidas casas blancas y amarillas del caracol, puestas con orden desordenada, mezclados entre ellas pedazos de cristal luciente y de contrahechas esmeraldas, hacen una variada labor, de manera que el arte, imitando a la naturaleza, parece que allí la vence. Acullá de improviso se le descubre un fuerte castillo o vistoso alcázar, cuyas murallas son de macizo oro, las almenas de diamantes, las puertas de jacintos; finalmente, él es de tan admirable compostura que, con ser la materia de que está formado no menos que de diamantes, de carbuncos, de rubíes, de perlas, de oro y de esmeraldas, es de más estimación su hechura. Y ¿hay más que ver, después de haber visto esto, que ver salir por la puerta del castillo un buen número de doncellas, cuyos galanos y vistosos trajes, si yo me pusiese ahora a decirlos como las historias nos los cuentan, sería nunca acabar; y tomar luego la que parecía principal de todas por la mano al atrevido caballero que se arrojó en el ferviente lago, y llevarle, sin hablarle palabra, dentro del rico alcázar o castillo, y hacerle desnudar como su madre le parió, y bañarle con templadas aguas, y luego untarle todo con olorosos ungüentos, y vestirle una camisa de cendal delgadísimo, toda olorosa y perfumada, y acudir otra doncella y echarle un mantón sobre los hombros, que, por lo menos menos, dicen que suele valer una ciudad, y aun más? ¿Qué es ver, pues, cuando nos cuentan que, tras todo esto, le llevan a otra sala, donde halla puestas las mesas, con tanto concierto, que queda suspenso y admirado?; ¿qué, el verle echar agua a manos, toda de ámbar y de olorosas flores distilada?; ¿qué, el hacerle sentar sobre una silla de marfil?; ¿qué, verle servir todas las doncellas, guardando un maravilloso silencio?; ¿qué, el traerle tanta diferencia de manjares, tan sabrosamente guisados, que no sabe el apetito a cuál deba de alargar la mano? ¿Cuál será oír la música que en tanto que come suena, sin saberse quién la canta ni adónde suena? ¿Y, después de la comida acabada y las mesas alzadas, quedarse el caballero recostado sobre la silla, y quizá mondándose los dientes, como es costumbre, entrar a deshora por la puerta de la sala otra mucho más hermosa doncella que ninguna de las primeras, y sentarse al lado del caballero, y comenzar a darle cuenta de qué castillo es aquél, y de cómo ella está encantada en él, con otras cosas que suspenden al caballero y admiran a los leyentes que van leyendo su historia? No quiero alargarme más en esto, pues dello se puede colegir que cualquiera parte que se lea, de cualquiera historia de caballero andante, ha de causar gusto y maravilla a cualquiera que la leyere. Y vuestra merced créame, y, como otra vez le he dicho, lea estos libros, y verá cómo le destierran la melancolía que tuviere, y le mejoran la condición, si acaso la tiene mala. De mí sé decir que, después que soy caballero andante, soy valiente, comedido, liberal, bien criado, generoso, cortés, atrevido, blando, paciente, sufridor de trabajos, de prisiones, de encantos; y, aunque ha tan poco que me vi encerrado en una jaula, como loco, pienso, por el valor de mi brazo, favoreciéndome el cielo y no me siendo contraria la fortuna, en pocos días verme rey de algún reino, adonde pueda mostrar el agradecimiento y liberalidad que mi pecho encierra. Que, mía fe, señor, el pobre está inhabilitado de poder mostrar la virtud de liberalidad con ninguno, aunque en sumo grado la posea; y el agradecimiento que sólo consiste en el deseo es cosa muerta, como es muerta la fe sin obras. Por esto querría que la fortuna me ofreciese presto alguna ocasión donde me hiciese emperador, por mostrar mi pecho haciendo bien a mis amigos, especialmente a este pobre de Sancho Panza, mi escudero, que es el mejor hombre del mundo, y querría darle un condado que le tengo muchos días ha prometido, sino que temo que no ha de tener habilidad para gobernar su estado.
@@ -5906,7 +5871,7 @@ Parece que lo entendió la cabra, porque, en sentándose su dueño, se tendió e
 
 
 
-Capítulo LI. Que trata de lo que contó el cabrero a todos los que llevaban a don Quijote
+ Que trata de lo que contó el cabrero a todos los que llevaban a don Quijote
 
 
 — «Tres leguas deste valle está una aldea que, aunque pequeña, es de las más ricas que hay en todos estos contornos; en la cual había un labrador muy honrado, y tanto, que, aunque es anexo al ser rico el ser honrado, más lo era él por la virtud que tenía que por la riqueza que alcanzaba. Mas lo que le hacía más dichoso, según él decía, era tener una hija de tan estremada hermosura, rara discreción, donaire y virtud, que el que la conocía y la miraba se admiraba de ver las estremadas partes con que el cielo y la naturaleza la habían enriquecido. Siendo niña fue hermosa, y siempre fue creciendo en belleza, y en la edad de diez y seis años fue hermosísima. La fama de su belleza se comenzó a estender por todas las circunvecinas aldeas, ¿qué digo yo por las circunvecinas no más, si se estendió a las apartadas ciudades, y aun se entró por las salas de los reyes, y por los oídos de todo género de gente; que, como a cosa rara, o como a imagen de milagros, de todas partes a verla venían? Guardábala su padre, y guardábase ella; que no hay candados, guardas ni cerraduras que mejor guarden a una doncella que las del recato proprio.
@@ -5930,8 +5895,7 @@ Capítulo LI. Que trata de lo que contó el cabrero a todos los que llevaban a d
 
 
 
-
-Capítulo LII. De la pendencia que don Quijote tuvo con el cabrero, con la rara aventura de los deceplinantes, a quien dio felice fin a costa de su sudor
+ De la pendencia que don Quijote tuvo con el cabrero, con la rara aventura de los deceplinantes, a quien dio felice fin a costa de su sudor
 
 
 General gusto causó el cuento del cabrero a todos los que escuchado le habían; especialmente le recibió el canónigo, que con estraña curiosidad notó la manera con que le había contado, tan lejos de parecer rústico cabrero cuan cerca de mostrarse discreto cortesano; y así, dijo que había dicho muy bien el cura en decir que los montes criaban letrados. Todos se ofrecieron a Eugenio; pero el que más se mostró liberal en esto fue don Quijote, que le dijo:
@@ -6316,7 +6280,7 @@ Miguel de Cervantes Saavedra.
 
 
 
-Capítulo Primero. De lo que el cura y el barbero pasaron con don Quijote cerca de su enfermedad
+ Primero. De lo que el cura y el barbero pasaron con don Quijote cerca de su enfermedad
 
 
 Cuenta Cide Hamete Benengeli, en la segunda parte desta historia y tercera salida de don Quijote, que el cura y el barbero se estuvieron casi un mes sin verle, por no renovarle y traerle a la memoria las cosas pasadas; pero no por esto dejaron de visitar a su sobrina y a su ama, encargándolas tuviesen cuenta con regalarle, dándole a comer cosas confortativas y apropiadas para el corazón y el celebro, de donde procedía, según buen discurso, toda su mala ventura. Las cuales dijeron que así lo hacían, y lo harían, con la voluntad y cuidado posible, porque echaban de ver que su señor por momentos iba dando muestras de estar en su entero juicio; de lo cual recibieron los dos gran contento, por parecerles que habían acertado en haberle traído encantado en el carro de los bueyes, como se contó en la primera parte desta tan grande como puntual historia, en su último capítulo. Y así, determinaron de visitarle y hacer esperiencia de su mejoría, aunque tenían casi por imposible que la tuviese, y acordaron de no tocarle en ningún punto de la andante caballería, por no ponerse a peligro de descoser los de la herida, que tan tiernos estaban.
@@ -6424,8 +6388,7 @@ Y, en esto, oyeron que la ama y la sobrina, que ya habían dejado la conversaci�
 
 
 
-
-Capítulo II. Que trata de la notable pendencia que Sancho Panza tuvo con la sobrina y ama de don Quijote, con otros sujetos graciosos
+ Que trata de la notable pendencia que Sancho Panza tuvo con la sobrina y ama de don Quijote, con otros sujetos graciosos
 
 
 Cuenta la historia que las voces que oyeron don Quijote, el cura y el barbero eran de la sobrina y ama, que las daban diciendo a Sancho Panza, que pugnaba por entrar a ver a don Quijote, y ellas le defendían la puerta:
@@ -6510,7 +6473,7 @@ Y, dejando a su señor, se fue a buscar al bachiller, con el cual volvió de all
 
 
 
-Capítulo III. Del ridículo razonamiento que pasó entre don Quijote, Sancho Panza y el bachiller Sansón Carrasco
+ Del ridículo razonamiento que pasó entre don Quijote, Sancho Panza y el bachiller Sansón Carrasco
 
 
 Pensativo además quedó don Quijote, esperando al bachiller Carrasco, de quien esperaba oír las nuevas de sí mismo puestas en libro, como había dicho Sancho; y no se podía persuadir a que tal historia hubiese, pues aún no estaba enjuta en la cuchilla de su espada la sangre de los enemigos que había muerto, y ya querían que anduviesen en estampa sus altas caballerías. Con todo eso, imaginó que algún sabio, o ya amigo o enemigo, por arte de encantamento las habrá dado a la estampa: si amigo, para engrandecerlas y levantarlas sobre las más señaladas de caballero andante; si enemigo, para aniquilarlas y ponerlas debajo de las más viles que de algún vil escudero se hubiesen escrito, puesto —decía entre sí— que nunca hazañas de escuderos se escribieron; y cuando fuese verdad que la tal historia hubiese, siendo de caballero andante, por fuerza había de ser grandílocua, alta, insigne, magnífica y verdadera.
@@ -6625,7 +6588,7 @@ Don Quijote pidió y rogó al bachiller se quedase a hacer penitencia con él. T
 
 
 
-Capítulo IV. Donde Sancho Panza satisface al bachiller Sansón Carrasco de sus dudas y preguntas, con otros sucesos dignos de saberse y de contarse
+ Donde Sancho Panza satisface al bachiller Sansón Carrasco de sus dudas y preguntas, con otros sucesos dignos de saberse y de contarse
 
 
 Volvió Sancho a casa de don Quijote, y, volviendo al pasado razonamiento, dijo:
@@ -6690,7 +6653,7 @@ Quedaron en esto y en que la partida sería de allí a ocho días. Encargó don 
 
 
 
-Capítulo V. De la discreta y graciosa plática que pasó entre Sancho Panza y su mujer Teresa Panza, y otros sucesos dignos de felice recordación
+ De la discreta y graciosa plática que pasó entre Sancho Panza y su mujer Teresa Panza, y otros sucesos dignos de felice recordación
 
 
 (Llegando a escribir el traductor desta historia este quinto capítulo, dice que le tiene por apócrifo, porque en él habla Sancho Panza con otro estilo del que se podía prometer de su corto ingenio, y dice cosas tan sutiles, que no tiene por posible que él las supiese; pero que no quiso dejar de traducirlo, por cumplir con lo que a su oficio debía; y así, prosiguió diciendo:)
@@ -6763,7 +6726,7 @@ Y, en esto, comenzó a llorar tan de veras como si ya viera muerta y enterrada a
 
 
 
-Capítulo VI. De lo que le pasó a Don Quijote con su sobrina y con su ama, y es uno de los importantes capítulos de toda la historia
+ De lo que le pasó a Don Quijote con su sobrina y con su ama, y es uno de los importantes capítulos de toda la historia
 
 
 En tanto que Sancho Panza y su mujer Teresa Cascajo pasaron la impertinente referida plática, no estaban ociosas la sobrina y el ama de don Quijote, que por mil señales iban coligiendo que su tío y señor quería desgarrarse la vez tercera, y volver al ejercicio de su, para ellas, mal andante caballería: procuraban por todas las vías posibles apartarle de tan mal pensamiento, pero todo era predicar en desierto y majar en hierro frío. Con todo esto, entre otras muchas razones que con él pasaron, le dijo el ama:
@@ -6808,7 +6771,7 @@ A este tiempo, llamaron a la puerta, y, preguntando quién llamaba, respondió S
 
 
 
-Capítulo VII. De lo que pasó don Quijote con su escudero, con otros sucesos famosísimos
+ De lo que pasó don Quijote con su escudero, con otros sucesos famosísimos
 
 
 Apenas vio el ama que Sancho Panza se encerraba con su señor, cuando dio en la cuenta de sus tratos; y, imaginando que de aquella consulta había de salir la resolución de su tercera salida y tomando su manto, toda llena de congoja y pesadumbre, se fue a buscar al bachiller Sansón Carrasco, pareciéndole que, por ser bien hablado y amigo fresco de su señor, le podría persuadir a que dejase tan desvariado propósito.
@@ -6901,7 +6864,7 @@ En resolución, en aquellos tres días don Quijote y Sancho se acomodaron de lo 
 
 
 
-Capítulo VIII. Donde se cuenta lo que le sucedió a don Quijote, yendo a ver su señora Dulcinea del Toboso
+ Donde se cuenta lo que le sucedió a don Quijote, yendo a ver su señora Dulcinea del Toboso
 
 
 ''¡Bendito sea el poderoso Alá! —dice Hamete Benengeli al comienzo deste octavo capítulo—. ¡Bendito sea Alá!'', repite tres veces; y dice que da estas bendiciones por ver que tiene ya en campaña a don Quijote y a Sancho, y que los letores de su agradable historia pueden hacer cuenta que desde este punto comienzan las hazañas y donaires de don Quijote y de su escudero; persuádeles que se les olviden las pasadas caballerías del ingenioso hidalgo, y pongan los ojos en las que están por venir, que desde agora en el camino del Toboso comienzan, como las otras comenzaron en los campos de Montiel, y no es mucho lo que pide para tanto como él promete; y así prosigue diciendo:
@@ -6970,7 +6933,7 @@ En estas y otras semejantes pláticas se les pasó aquella noche y el día sigui
 
 
 
-Capítulo IX. Donde se cuenta lo que en él se verá
+ Donde se cuenta lo que en él se verá
 
 
 Media noche era por filo, poco más a menos, cuando don Quijote y Sancho dejaron el monte y entraron en el Toboso. Estaba el pueblo en un sosegado silencio, porque todos sus vecinos dormían y reposaban a pierna tendida, como suele decirse. Era la noche entreclara, puesto que quisiera Sancho que fuera del todo escura, por hallar en su escuridad disculpa de su sandez. No se oía en todo el lugar sino ladridos de perros, que atronaban los oídos de don Quijote y turbaban el corazón de Sancho. De cuando en cuando, rebuznaba un jumento, gruñían puercos, mayaban gatos, cuyas voces, de diferentes sonidos, se aumentaban con el silencio de la noche, todo lo cual tuvo el enamorado caballero a mal agüero; pero, con todo esto, dijo a Sancho:
@@ -7047,7 +7010,7 @@ Rabiaba Sancho por sacar a su amo del pueblo, porque no averiguase la mentira de
 
 
 
-Capítulo X. Donde se cuenta la industria que Sancho tuvo para encantar a la señora Dulcinea, y de otros sucesos tan ridículos como verdaderos
+ Donde se cuenta la industria que Sancho tuvo para encantar a la señora Dulcinea, y de otros sucesos tan ridículos como verdaderos
 
 
 Llegando el autor desta grande historia a contar lo que en este capítulo cuenta, dice que quisiera pasarle en silencio, temeroso de que no había de ser creído, porque las locuras de don Quijote llegaron aquí al término y raya de las mayores que pueden imaginarse, y aun pasaron dos tiros de ballesta más allá de las mayores. Finalmente, aunque con este miedo y recelo, las escribió de la misma manera que él las hizo, sin añadir ni quitar a la historia un átomo de la verdad, sin dársele nada por las objeciones que podían ponerle de mentiroso. Y tuvo razón, porque la verdad adelgaza y no quiebra, y siempre anda sobre la mentira como el aceite sobre el agua.
@@ -7150,7 +7113,7 @@ Harto tenía que hacer el socarrón de Sancho en disimular la risa, oyendo las s
 
 
 
-Capítulo XI. De la estraña aventura que le sucedió al valeroso don Quijote con el carro, o carreta, de Las Cortes de la Muerte
+ De la estraña aventura que le sucedió al valeroso don Quijote con el carro, o carreta, de Las Cortes de la Muerte
 
 
 Pensativo además iba don Quijote por su camino adelante, considerando la mala burla que le habían hecho los encantadores, volviendo a su señora Dulcinea en la mala figura de la aldeana, y no imaginaba qué remedio tendría para volverla a su ser primero; y estos pensamientos le llevaban tan fuera de sí, que, sin sentirlo, soltó las riendas a Rocinante, el cual, sintiendo la libertad que se le daba, a cada paso se detenía a pacer la verde yerba de que aquellos campos abundaban. De su embelesamiento le volvió Sancho Panza, diciéndole:
@@ -7221,7 +7184,7 @@ Volvió las riendas luego, Sancho fue a tomar su rucio, la Muerte con todo su es
 
 
 
-Capítulo XII. De la estraña aventura que le sucedió al valeroso don Quijote con el bravo Caballero de los Espejos
+ De la estraña aventura que le sucedió al valeroso don Quijote con el bravo Caballero de los Espejos
 
 
 La noche que siguió al día del rencuentro de la Muerte la pasaron don Quijote y su escudero debajo de unos altos y sombrosos árboles, habiendo, a persuasión de Sancho, comido don Quijote de lo que venía en el repuesto del rucio, y entre la cena dijo Sancho a su señor:
@@ -7368,7 +7331,7 @@ Con esto se apartaron los dos escuderos, entre los cuales pasó un tan gracioso 
 
 
 
-Capítulo XIII. Donde se prosigue la aventura del Caballero del Bosque, con el discreto, nuevo y suave coloquio que pasó entre los dos escuderos
+ Donde se prosigue la aventura del Caballero del Bosque, con el discreto, nuevo y suave coloquio que pasó entre los dos escuderos
 
 
 Divididos estaban caballeros y escuderos: éstos contándose sus vidas, y aquéllos sus amores; pero la historia cuenta primero el razonamiento de los mozos y luego prosigue el de los amos; y así, dice que, apartándose un poco dellos, el del Bosque dijo a Sancho:
@@ -7459,7 +7422,7 @@ Finalmente, tanto hablaron y tanto bebieron los dos buenos escuderos, que tuvo n
 
 
 
-Capítulo XIV. Donde se prosigue la aventura del Caballero del Bosque
+ Donde se prosigue la aventura del Caballero del Bosque
 
 
 Entre muchas razones que pasaron don Quijote y el Caballero de la Selva, dice la historia que el del Bosque dijo a don Quijote:
@@ -7598,7 +7561,7 @@ Ayudóle a levantar don Quijote y Tomé Cecial, su escudero, del cual no apartab
 
 
 
-Capítulo XV. Donde se cuenta y da noticia de quién era el Caballero de los Espejos y su escudero
+. Donde se cuenta y da noticia de quién era el Caballero de los Espejos y su escudero
 
 
 En estremo contento, ufano y vanaglorioso iba don Quijote por haber alcanzado vitoria de tan valiente caballero como él se imaginaba que era el de los Espejos, de cuya caballeresca palabra esperaba saber si el encantamento de su señora pasaba adelante, pues era forzoso que el tal vencido caballero volviese, so pena de no serlo, a darle razón de lo que con ella le hubiese sucedido. Pero uno pensaba don Quijote y otro el de los Espejos, puesto que por entonces no era otro su pensamiento sino buscar donde bizmarse, como se ha dicho.
@@ -7625,7 +7588,7 @@ En esto fueron razonando los dos, hasta que llegaron a un pueblo donde fue ventu
 
 
 
-Capítulo XVI. De lo que sucedió a don Quijote con un discreto caballero de la Mancha
+ De lo que sucedió a don Quijote con un discreto caballero de la Mancha
 
 
 Con la alegría, contento y ufanidad que se ha dicho, seguía don Quijote su jornada, imaginándose por la pasada vitoria ser el caballero andante más valiente que tenía en aquella edad el mundo; daba por acabadas y a felice fin conducidas cuantas aventuras pudiesen sucederle de allí adelante; tenía en poco a los encantos y a los encantadores; no se acordaba de los inumerables palos que en el discurso de sus caballerías le habían dado, ni de la pedrada que le derribó la mitad de los dientes, ni del desagradecimiento de los galeotes, ni del atrevimiento y lluvia de estacas de los yangüeses. Finalmente, decía entre sí que si él hallara arte, modo o manera como desencantar a su señora Dulcinea, no invidiara a la mayor ventura que alcanzó o pudo alcanzar el más venturoso caballero andante de los pasados siglos. En estas imaginaciones iba todo ocupado, cuando Sancho le dijo:
@@ -7702,7 +7665,7 @@ Admirado quedó el del Verde Gabán del razonamiento de don Quijote, y tanto, qu
 
 
 
-Capítulo XVII. De donde se declaró el último punto y estremo adonde llegó y pudo llegar el inaudito ánimo de don Quijote, con la felicemente acabada aventura de los leones
+ De donde se declaró el último punto y estremo adonde llegó y pudo llegar el inaudito ánimo de don Quijote, con la felicemente acabada aventura de los leones
 
 
 Cuenta la historia que cuando don Quijote daba voces a Sancho que le trujese el yelmo, estaba él comprando unos requesones que los pastores le vendían; y, acosado de la mucha priesa de su amo, no supo qué hacer dellos, ni en qué traerlos, y, por no perderlos, que ya los tenía pagados, acordó de echarlos en la celada de su señor, y con este buen recado volvió a ver lo que le quería; el cual, en llegando, le dijo:
@@ -7843,7 +7806,7 @@ Y, picando más de lo que hasta entonces, serían como las dos de la tarde cuand
 
 
 
-Capítulo XVIII. De lo que sucedió a don Quijote en el castillo o casa del Caballero del Verde Gabán, con otras cosas extravagantes
+ De lo que sucedió a don Quijote en el castillo o casa del Caballero del Verde Gabán, con otras cosas extravagantes
 
 
 Halló don Quijote ser la casa de don Diego de Miranda ancha como de aldea; las armas, empero, aunque de piedra tosca, encima de la puerta de la calle; la bodega, en el patio; la cueva, en el portal, y muchas tinajas a la redonda, que, por ser del Toboso, le renovaron las memorias de su encantada y transformada Dulcinea; y sospirando, y sin mirar lo que decía, ni delante de quién estaba, dijo:
@@ -8065,8 +8028,7 @@ De nuevo se admiraron padre y hijo de las entremetidas razones de don Quijote, y
 
 
 
-
-Capítulo XIX. Donde se cuenta la aventura del pastor enamorado, con otros en verdad graciosos sucesos
+Donde se cuenta la aventura del pastor enamorado, con otros en verdad graciosos sucesos
 
 
 Poco trecho se había alongado don Quijote del lugar de don Diego, cuando encontró con dos como clérigos o como estudiantes y con dos labradores que sobre cuatro bestias asnales venían caballeros. El uno de los estudiantes traía, como en portamanteo, en un lienzo de bocací verde envuelto, al parecer, un poco de grana blanca y dos pares de medias de cordellate; el otro no traía otra cosa que dos espadas negras de esgrima, nuevas, y con sus zapatillas. Los labradores traían otras cosas, que daban indicio y señal que venían de alguna villa grande, donde las habían comprado, y las llevaban a su aldea; y así estudiantes como labradores cayeron en la misma admiración en que caían todos aquellos que la vez primera veían a don Quijote, y morían por saber qué hombre fuese aquél tan fuera del uso de los otros hombres.
@@ -8137,7 +8099,7 @@ Otros muchos andaban ocupados en levantar andamios, de donde con comodidad pudie
 
 
 
-Capítulo XX. Donde se cuentan las bodas de Camacho el rico, con el suceso de Basilio el pobre
+ Donde se cuentan las bodas de Camacho el rico, con el suceso de Basilio el pobre
 
 
 Apenas la blanca aurora había dado lugar a que el luciente Febo, con el ardor de sus calientes rayos, las líquidas perlas de sus cabellos de oro enjugase, cuando don Quijote, sacudiendo la pereza de sus miembros, se puso en pie y llamó a su escudero Sancho, que aún todavía roncaba; lo cual visto por don Quijote, antes que le despertase, le dijo:
@@ -8334,7 +8296,7 @@ Y, diciendo esto, comenzó de nuevo a dar asalto a su caldero, con tan buenos al
 
 
 
-Capítulo XXI. Donde se prosiguen las bodas de Camacho, con otros gustosos sucesos
+ Donde se prosiguen las bodas de Camacho, con otros gustosos sucesos
 
 
 Cuando estaban don Quijote y Sancho en las razones referidas en el capítulo antecedente, se oyeron grandes voces y gran ruido, y dábanlas y causábanle los de las yeguas, que con larga carrera y grita iban a recebir a los novios, que, rodeados de mil géneros de instrumentos y de invenciones, venían acompañados del cura, y de la parentela de entrambos, y de toda la gente más lucida de los lugares circunvecinos, todos vestidos de fiesta. Y como Sancho vio a la novia, dijo:
@@ -8407,7 +8369,7 @@ Llevarónse consigo a don Quijote, estimándole por hombre de valor y de pelo en
 
 
 
-Capítulo XXII. Donde se da cuenta de la grande aventura de la cueva de Montesinos, que está en el corazón de la Mancha, a quien dio felice cima el valeroso don Quijote de la Mancha
+ Donde se da cuenta de la grande aventura de la cueva de Montesinos, que está en el corazón de la Mancha, a quien dio felice cima el valeroso don Quijote de la Mancha
 
 
 Grandes fueron y muchos los regalos que los desposados hicieron a don Quijote, obligados de las muestras que había dado defendiendo su causa, y al par de la valentía le graduaron la discreción, teniéndole por un Cid en las armas y por un Cicerón en la elocuencia. El buen Sancho se refociló tres días a costa de los novios, de los cuales se supo que no fue traza comunicada con la hermosa Quiteria el herirse fingidamente, sino industria de Basilio, esperando della el mesmo suceso que se había visto; bien es verdad que confesó que había dado parte de su pensamiento a algunos de sus amigos, para que al tiempo necesario favoreciesen su intención y abonasen su engaño.
@@ -8514,7 +8476,7 @@ Pidió que le diesen algo de comer, que traía grandísima hambre. Tendieron la 
 
 
 
-Capítulo XXIII. De las admirables cosas que el estremado don Quijote contó que había visto en la profunda cueva de Montesinos, cuya imposibilidad y grandeza hace que se tenga esta aventura por apócrifa
+De las admirables cosas que el estremado don Quijote contó que había visto en la profunda cueva de Montesinos, cuya imposibilidad y grandeza hace que se tenga esta aventura por apócrifa
 
 
 Las cuatro de la tarde serían cuando el sol, entre nubes cubierto, con luz escasa y templados rayos, dio lugar a don Quijote para que, sin calor y pesadumbre, contase a sus dos clarísimos oyentes lo que en la cueva de Montesinos había visto. Y comenzó en el modo siguiente:
@@ -8613,7 +8575,7 @@ Cuando Sancho Panza oyó decir esto a su amo, pensó perder el juicio, o morirse
 
 
 
-Capítulo XXIV. Donde se cuentan mil zarandajas tan impertinentes como necesarias al verdadero entendimiento desta grande historia
+Donde se cuentan mil zarandajas tan impertinentes como necesarias al verdadero entendimiento desta grande historia
 
 
 Dice el que tradujo esta grande historia del original, de la que escribió su primer autor Cide Hamete Benengeli, que, llegando al capítulo de la aventura de la cueva de Montesinos, en el margen dél estaban escritas, de mano del mesmo Hamete, estas mismas razones:
@@ -8692,7 +8654,7 @@ Y en esto, llegaron a la venta, a tiempo que anochecía, y no sin gusto de Sanch
 
 
 
-Capítulo XXV. Donde se apunta la aventura del rebuzno y la graciosa del titerero, con las memorables adivinanzas del mono adivino
+ Donde se apunta la aventura del rebuzno y la graciosa del titerero, con las memorables adivinanzas del mono adivino
 
 
 No se le cocía el pan a don Quijote, como suele decirse, hasta oír y saber las maravillas prometidas del hombre condutor de las armas. Fuele a buscar donde el ventero le había dicho que estaba, y hallóle, y díjole que en todo caso le dijese luego lo que le había de decir después, acerca de lo que le había preguntado en el camino. El hombre le respondió:
@@ -8795,7 +8757,7 @@ Puestos, pues, todos cuantos había en la venta, y algunos en pie, frontero del 
 
 
 
-Capítulo XXVI. Donde se prosigue la graciosa aventura del titerero, con otras cosas en verdad harto buenas
+ Donde se prosigue la graciosa aventura del titerero, con otras cosas en verdad harto buenas
 
 
 Callaron todos, tirios y troyanos; quiero decir, pendientes estaban todos los que el retablo miraban de la boca del declarador de sus maravillas, cuando se oyeron sonar en el retablo cantidad de atabales y trompetas, y dispararse mucha artillería, cuyo rumor pasó en tiempo breve, y luego alzó la voz el muchacho, y dijo:
@@ -8926,7 +8888,7 @@ Antes que amaneciese, se fue el que llevaba las lanzas y las alabardas, y ya des
 
 
 
-Capítulo XXVII. Donde se da cuenta quiénes eran maese Pedro y su mono, con el mal suceso que don Quijote tuvo en la aventura del rebuzno, que no la acabó como él quisiera y como lo tenía pensado
+Donde se da cuenta quiénes eran maese Pedro y su mono, con el mal suceso que don Quijote tuvo en la aventura del rebuzno, que no la acabó como él quisiera y como lo tenía pensado
 
 
 Entra Cide Hamete, coronista desta grande historia, con estas palabras en este capítulo: ''Juro como católico cristiano...''; a lo que su traductor dice que el jurar Cide Hamete como católico cristiano, siendo él moro, como sin duda lo era, no quiso decir otra cosa sino que, así como el católico cristiano cuando jura, jura, o debe jurar, verdad, y decirla en lo que dijere, así él la decía, como si jurara como cristiano católico, en lo que quería escribir de don Quijote, especialmente en decir quién era maese Pedro, y quién el mono adivino que traía admirados todos aquellos pueblos con sus adivinanzas.
@@ -8979,7 +8941,7 @@ Los del escuadrón se estuvieron allí hasta la noche, y, por no haber salido a 
 
 
 
-Capítulo XXVIII. De cosas que dice Benengeli que las sabrá quien le leyere, si las lee con atención
+ De cosas que dice Benengeli que las sabrá quien le leyere, si las lee con atención
 
 
 Cuando el valiente huye, la superchería está descubierta, y es de varones prudentes guardarse para mejor ocasión. Esta verdad se verificó en don Quijote, el cual, dando lugar a la furia del pueblo y a las malas intenciones de aquel indignado escuadrón, puso pies en polvorosa, y, sin acordarse de Sancho ni del peligro en que le dejaba, se apartó tanto cuanto le pareció que bastaba para estar seguro. Seguíale Sancho, atravesado en su jumento, como queda referido. Llegó, en fin, ya vuelto en su acuerdo, y al llegar, se dejó caer del rucio a los pies de Rocinante, todo ansioso, todo molido y todo apaleado. Apeóse don Quijote para catarle las feridas; pero, como le hallase sano de los pies a la cabeza, con asaz cólera le dijo:
@@ -9030,7 +8992,7 @@ Con esto, se metieron en la alameda, y don Quijote se acomodó al pie de un olmo
 
 
 
-Capítulo XXIX. De la famosa aventura del barco encantado
+ De la famosa aventura del barco encantado
 
 
 Por sus pasos contados y por contar, dos días después que salieron de la alameda, llegaron don Quijote y Sancho al río Ebro, y el verle fue de gran gusto a don Quijote, porque contempló y miró en él la amenidad de sus riberas, la claridad de sus aguas, el sosiego de su curso y la abundancia de sus líquidos cristales, cuya alegre vista renovó en su memoria mil amorosos pensamientos. Especialmente fue y vino en lo que había visto en la cueva de Montesinos; que, puesto que el mono de maese Pedro le había dicho que parte de aquellas cosas eran verdad y parte mentira, él se atenía más a las verdaderas que a las mentirosas, bien al revés de Sancho, que todas las tenía por la mesma mentira.
@@ -9126,8 +9088,7 @@ Los pescadores y molineros estaban admirados, mirando aquellas dos figuras tan f
 
 
 
-
-Capítulo XXX. De lo que le avino a don Quijote con una bella cazadora
+ De lo que le avino a don Quijote con una bella cazadora
 
 
 Asaz melancólicos y de mal talante llegaron a sus animales caballero y escudero, especialmente Sancho, a quien llegaba al alma llegar al caudal del dinero, pareciéndole que todo lo que dél se quitaba era quitárselo a él de las niñas de sus ojos. Finalmente, sin hablarse palabra, se pusieron a caballo y se apartaron del famoso río, don Quijote sepultado en los pensamientos de sus amores, y Sancho en los de su acrecentamiento, que por entonces le parecía que estaba bien lejos de tenerle; porque, maguer era tonto, bien se le alcanzaba que las acciones de su amo, todas o las más, eran disparates, y buscaba ocasión de que, sin entrar en cuentas ni en despedimientos con su señor, un día se desgarrase y se fuese a su casa. Pero la fortuna ordenó las cosas muy al revés de lo que él temía.
@@ -9196,7 +9157,7 @@ Ya en esto, Sancho había aderezado y cinchado bien la silla a Rocinante; y, sub
 
 
 
-Capítulo XXXI. Que trata de muchas y grandes cosas
+ Que trata de muchas y grandes cosas
 
 
 Suma era la alegría que llevaba consigo Sancho, viéndose, a su parecer, en privanza con la duquesa, porque se le figuraba que había de hallar en su castillo lo que en la casa de don Diego y en la de Basilio, siempre aficionado a la buena vida; y así, tomaba la ocasión por la melena en esto del regalarse cada y cuando que se le ofrecía.
@@ -9343,7 +9304,7 @@ Pero esta respuesta capítulo por sí merece.
 
 
 
-Capítulo XXXII. De la respuesta que dio don Quijote a su reprehensor, con otros graves y graciosos sucesos
+ De la respuesta que dio don Quijote a su reprehensor, con otros graves y graciosos sucesos
 
 
 Levantado, pues, en pie don Quijote, temblando de los pies a la cabeza como azogado, con presurosa y turbada lengua, dijo:
@@ -9468,7 +9429,7 @@ Con esto cesó la plática, y don Quijote se fue a reposar la siesta, y la duque
 
 
 
-Capítulo XXXIII. De la sabrosa plática que la duquesa y sus doncellas pasaron con Sancho Panza, digna de que se lea y de que se note
+ De la sabrosa plática que la duquesa y sus doncellas pasaron con Sancho Panza, digna de que se lea y de que se note
 
 
 Cuenta, pues, la historia, que Sancho no durmió aquella siesta, sino que, por cumplir su palabra, vino en comiendo a ver a la duquesa; la cual, con el gusto que tenía de oírle, le hizo sentar junto a sí en una silla baja, aunque Sancho, de puro bien criado, no quería sentarse; pero la duquesa le dijo que se sentase como gobernador y hablase como escudero, puesto que por entrambas cosas merecía el mismo escaño del Cid Ruy Díaz Campeador.
@@ -9541,7 +9502,7 @@ Las razones de Sancho renovaron en la duquesa la risa y el contento; y, enviánd
 
 
 
-Capítulo XXXIV. Que cuenta de la noticia que se tuvo de cómo se había de desencantar la sin par Dulcinea del Toboso, que es una de las aventuras más famosas deste libro
+ Que cuenta de la noticia que se tuvo de cómo se había de desencantar la sin par Dulcinea del Toboso, que es una de las aventuras más famosas deste libro
 
 
 Grande era el gusto que recebían el duque y la duquesa de la conversación de don Quijote y de la de Sancho Panza; y, confirmándose en la intención que tenían de hacerles algunas burlas que llevasen vislumbres y apariencias de aventuras, tomaron motivo de la que don Quijote ya les había contado de la cueva de Montesinos, para hacerle una que fuese famosa (pero de lo que más la duquesa se admiraba era que la simplicidad de Sancho fuese tanta que hubiese venido a creer ser verdad infalible que Dulcinea del Toboso estuviese encantada, habiendo sido él mesmo el encantador y el embustero de aquel negocio); y así, habiendo dado orden a sus criados de todo lo que habían de hacer, de allí a seis días le llevaron a caza de montería, con tanto aparato de monteros y cazadores como pudiera llevar un rey coronado. Diéronle a don Quijote un vestido de monte y a Sancho otro verde, de finísimo paño; pero don Quijote no se le quiso poner, diciendo que otro día había de volver al duro ejercicio de las armas y que no podía llevar consigo guardarropas ni reposterías. Sancho sí tomó el que le dieron, con intención de venderle en la primera ocasión que pudiese.
@@ -9640,7 +9601,7 @@ Y dijo bien, como se muestra en el capítulo siguiente.
 
 
 
-Capítulo XXXV. Donde se prosigue la noticia que tuvo don Quijote del desencanto de Dulcinea, con otros admirables sucesos
+Donde se prosigue la noticia que tuvo don Quijote del desencanto de Dulcinea, con otros admirables sucesos
 
 
 Al compás de la agradable música vieron que hacia ellos venía un carro de los que llaman triunfales tirado de seis mulas pardas, encubertadas, empero, de lienzo blanco, y sobre cada una venía un diciplinante de luz, asimesmo vestido de blanco, con una hacha de cera grande encendida en la mano. Era el carro dos veces, y aun tres, mayor que los pasados, y los lados, y encima dél, ocupaban doce otros diciplinantes albos como la nieve, todos con sus hachas encendidas, vista que admiraba y espantaba juntamente; y en un levantado trono venía sentada una ninfa, vestida de mil velos de tela de plata, brillando por todos ellos infinitas hojas de argentería de oro, que la hacían, si no rica, a lo menos vistosamente vestida. Traía el rostro cubierto con un transparente y delicado cendal, de modo que, sin impedirlo sus lizos, por entre ellos se descubría un hermosísimo rostro de doncella, y las muchas luces daban lugar para distinguir la belleza y los años, que, al parecer, no llegaban a veinte ni bajaban de diez y siete.
@@ -9801,7 +9762,7 @@ Y ya, en esto, se venía a más andar el alba, alegre y risueña: las florecilla
 
 
 
-Capítulo XXXVI. Donde se cuenta la estraña y jamás imaginada aventura de la dueña Dolorida, alias de la condesa Trifaldi, con una carta que Sancho Panza escribió a su mujer Teresa Panza
+ Donde se cuenta la estraña y jamás imaginada aventura de la dueña Dolorida, alias de la condesa Trifaldi, con una carta que Sancho Panza escribió a su mujer Teresa Panza
 
 
 Tenía un mayordomo el duque de muy burlesco y desenfadado ingenio, el cual hizo la figura de Merlín y acomodó todo el aparato de la aventura pasada, compuso los versos y hizo que un paje hiciese a Dulcinea. Finalmente, con intervención de sus señores, ordenó otra del más gracioso y estraño artificio que puede imaginarse.
@@ -9870,7 +9831,7 @@ Oyendo lo cual Trifaldín, inclinó la rodilla hasta el suelo, y, haciendo al p�
 
 
 
-Capítulo XXXVII. Donde se prosigue la famosa aventura de la dueña Dolorida
+. Donde se prosigue la famosa aventura de la dueña Dolorida
 
 
 En estremo se holgaron el duque y la duquesa de ver cuán bien iba respondiendo a su intención don Quijote, y a esta sazón dijo Sancho:
@@ -9911,7 +9872,7 @@ Y aquí, con este breve capítulo, dio fin el autor, y comenzó el otro, siguien
 
 
 
-Capítulo XXXVIII. Donde se cuenta la que dio de su mala andanza la dueña Dolorida
+ Donde se cuenta la que dio de su mala andanza la dueña Dolorida
 
 
 Detrás de los tristes músicos comenzaron a entrar por el jardín adelante hasta cantidad de doce dueñas, repartidas en dos hileras, todas vestidas de unos monjiles anchos, al parecer, de anascote batanado, con unas tocas blancas de delgado canequí, tan luengas que sólo el ribete del monjil descubrían. Tras ellas venía la condesa Trifaldi, a quien traía de la mano el escudero Trifaldín de la Blanca Barba, vestida de finísima y negra bayeta por frisar, que, a venir frisada, descubriera cada grano del grandor de un garbanzo de los buenos de Martos. La cola, o falda, o como llamarla quisieren, era de tres puntas, las cuales se sustentaban en las manos de tres pajes, asimesmo vestidos de luto, haciendo una vistosa y matemática figura con aquellos tres ángulos acutos que las tres puntas formaban, por lo cual cayeron todos los que la falda puntiaguda miraron que por ella se debía llamar la condesa Trifaldi, como si dijésemos la condesa de las Tres Faldas; y así dice Benengeli que fue verdad, y que de su propio apellido se llama la condesa Lobuna, a causa que se criaban en su condado muchos lobos, y que si como eran lobos fueran zorras, la llamaran la condesa Zorruna, por ser costumbre en aquellas partes tomar los señores la denominación de sus nombres de la cosa o cosas en que más sus estados abundan; empero esta condesa, por favorecer la novedad de su falda, dejó el Lobuna y tomó el Trifaldi.
@@ -9988,7 +9949,7 @@ A esta sazón, dijo Sancho:
 
 
 
-Capítulo XXXIX. Donde la Trifaldi prosigue su estupenda y memorable historia
+ Donde la Trifaldi prosigue su estupenda y memorable historia
 
 
 De cualquiera palabra que Sancho decía, la duquesa gustaba tanto como se desesperaba don Quijote; y, mandándole que callase, la Dolorida prosiguió diciendo:
@@ -10020,8 +9981,7 @@ Y, diciendo esto, dio muestras de desmayarse.
 
 
 
-
-Capítulo XL. De cosas que atañen y tocan a esta aventura y a esta memorable historia
+ De cosas que atañen y tocan a esta aventura y a esta memorable historia
 
 
 Real y verdaderamente, todos los que gustan de semejantes historias como ésta deben de mostrarse agradecidos a Cide Hamete, su autor primero, por la curiosidad que tuvo en contarnos las semínimas della, sin dejar cosa, por menuda que fuese, que no la sacase a luz distintamente: pinta los pensamientos, descubre las imaginaciones, responde a las tácitas, aclara las dudas, resuelve los argumentos; finalmente, los átomos del más curioso deseo manifiesta. ¡Oh autor celebérrimo! ¡Oh don Quijote dichoso! ¡Oh Dulcinea famosa! ¡Oh Sancho Panza gracioso! Todos juntos y cada uno de por sí viváis siglos infinitos, para gusto y general pasatiempo de los vivientes.
@@ -10092,7 +10052,7 @@ Dijo esto con tanto sentimiento la Trifaldi, que sacó las lágrimas de los ojos
 
 
 
-Capítulo XLI. De la venida de Clavileño, con el fin desta dilatada aventura
+ De la venida de Clavileño, con el fin desta dilatada aventura
 
 
 Llegó en esto la noche, y con ella el punto determinado en que el famoso caballo Clavileño viniese, cuya tardanza fatigaba ya a don Quijote, pareciéndole que, pues Malambruno se detenía en enviarle, o que él no era el caballero para quien estaba guardada aquella aventura, o que Malambruno no osaba venir con él a singular batalla. Pero veis aquí cuando a deshora entraron por el jardín cuatro salvajes, vestidos todos de verde yedra, que sobre sus hombros traían un gran caballo de madera. Pusiéronle de pies en el suelo, y uno de los salvajes dijo:
@@ -10253,7 +10213,7 @@ En resolución, éste fue el fin de la aventura de la dueña Dolorida, que dio q
 
 
 
-Capítulo XLII. De los consejos que dio don Quijote a Sancho Panza antes que fuese a gobernar la ínsula, con otras cosas bien consideradas
+ De los consejos que dio don Quijote a Sancho Panza antes que fuese a gobernar la ínsula, con otras cosas bien consideradas
 
 
 Con el felice y gracioso suceso de la aventura de la Dolorida, quedaron tan contentos los duques, que determinaron pasar con las burlas adelante, viendo el acomodado sujeto que tenían para que se tuviesen por veras; y así, habiendo dado la traza y órdenes que sus criados y sus vasallos habían de guardar con Sancho en el gobierno de la ínsula prometida, otro día, que fue el que sucedió al vuelo de Clavileño, dijo el duque a Sancho que se adeliñase y compusiese para ir a ser gobernador, que ya sus insulanos le estaban esperando como el agua de mayo. Sancho se le humilló y le dijo:
@@ -10292,7 +10252,7 @@ Entrados, pues, en su aposento, cerró tras sí la puerta, y hizo casi por fuerz
 
 
 
-Capítulo XLIII. De los consejos segundos que dio don Quijote a Sancho Panza
+ De los consejos segundos que dio don Quijote a Sancho Panza
 
 
 ¿Quién oyera el pasado razonamiento de don Quijote que no le tuviera por persona muy cuerda y mejor intencionada? Pero, como muchas veces en el progreso desta grande historia queda dicho, solamente disparaba en tocándole en la caballería, y en los demás discursos mostraba tener claro y desenfadado entendimiento, de manera que a cada paso desacreditaban sus obras su juicio, y su juicio sus obras; pero en ésta destos segundos documentos que dio a Sancho, mostró tener gran donaire, y puso su discreción y su locura en un levantado punto.
@@ -10341,9 +10301,7 @@ Y don Quijote le dijo:
 
 
 
-
-
-Capítulo XLIV. Cómo Sancho Panza fue llevado al gobierno, y de la estraña aventura que en el castillo sucedió a don Quijote
+ Cómo Sancho Panza fue llevado al gobierno, y de la estraña aventura que en el castillo sucedió a don Quijote
 
 
 Dicen que en el propio original desta historia se lee que, llegando Cide Hamete a escribir este capítulo, no le tradujo su intérprete como él le había escrito, que fue un modo de queja que tuvo el moro de sí mismo, por haber tomado entre manos una historia tan seca y tan limitada como esta de don Quijote, por parecerle que siempre había de hablar dél y de Sancho, sin osar estenderse a otras digresiones y episodios más graves y más entretenidos; y decía que el ir siempre atenido el entendimiento, la mano y la pluma a escribir de un solo sujeto y hablar por las bocas de pocas personas era un trabajo incomportable, cuyo fruto no redundaba en el de su autor, y que, por huir deste inconveniente, había usado en la primera parte del artificio de algunas novelas, como fueron la del Curioso impertinente y la del Capitán cautivo, que están como separadas de la historia, puesto que las demás que allí se cuentan son casos sucedidos al mismo don Quijote, que no podían dejar de escribirse. También pensó, como él dice, que muchos, llevados de la atención que piden las hazañas de don Quijote, no la darían a las novelas, y pasarían por ellas, o con priesa o con enfado, sin advertir la gala y artificio que en sí contienen, el cual se mostrara bien al descubierto cuando, por sí solas, sin arrimarse a las locuras de don Quijote ni a las sandeces de Sancho, salieran a luz. Y así, en esta segunda parte no quiso ingerir novelas sueltas ni pegadizas, sino algunos episodios que lo pareciesen, nacidos de los mesmos sucesos que la verdad ofrece; y aun éstos, limitadamente y con solas las palabras que bastan a declararlos; y, pues se contiene y cierra en los estrechos límites de la narración, teniendo habilidad, suficiencia y entendimiento para tratar del universo todo, pide no se desprecie su trabajo, y se le den alabanzas, no por lo que escribe, sino por lo que ha dejado de escribir.
@@ -10572,7 +10530,7 @@ Y, con esto, cerró de golpe la ventana, y, despechado y pesaroso, como si le hu
 
 
 
-Capítulo XLV. De cómo el gran Sancho Panza tomó la posesión de su ínsula, y del modo que comenzó a gobernar
+ De cómo el gran Sancho Panza tomó la posesión de su ínsula, y del modo que comenzó a gobernar
 
 
 ¡Oh perpetuo descubridor de los antípodas, hacha del mundo, ojo del cielo, meneo dulce de las cantimploras, Timbrio aquí, Febo allí, tirador acá, médico acullá, padre de la Poesía, inventor de la Música: tú que siempre sales, y, aunque lo parece, nunca te pones! A ti digo, ¡oh sol, con cuya ayuda el hombre engendra al hombre!; a ti digo que me favorezcas, y alumbres la escuridad de mi ingenio, para que pueda discurrir por sus puntos en la narración del gobierno del gran Sancho Panza; que sin ti, yo me siento tibio, desmazalado y confuso.
@@ -10685,7 +10643,7 @@ Y quédese aquí el buen Sancho, que es mucha la priesa que nos da su amo, albor
 
 
 
-Capítulo XLVI. Del temeroso espanto cencerril y gatuno que recibió don Quijote en el discurso de los amores de la enamorada Altisidora
+ Del temeroso espanto cencerril y gatuno que recibió don Quijote en el discurso de los amores de la enamorada Altisidora
 
 
 Dejamos al gran don Quijote envuelto en los pensamientos que le habían causado la música de la enamorada doncella Altisidora. Acostóse con ellos, y, como si fueran pulgas, no le dejaron dormir ni sosegar un punto, y juntábansele los que le faltaban de sus medias; pero, como es ligero el tiempo, y no hay barranco que le detenga, corrió caballero en las horas, y con mucha presteza llegó la de la mañana. Lo cual visto por don Quijote, dejó las blandas plumas, y, no nada perezoso, se vistió su acamuzado vestido y se calzó sus botas de camino, por encubrir la desgracia de sus medias; arrojóse encima su mantón de escarlata y púsose en la cabeza una montera de terciopelo verde, guarnecida de pasamanos de plata; colgó el tahelí de sus hombros con su buena y tajadora espada, asió un gran rosario que consigo contino traía, y con gran prosopopeya y contoneo salió a la antesala, donde el duque y la duquesa estaban ya vestidos y como esperándole; y, al pasar por una galería, estaban aposta esperándole Altisidora y la otra doncella su amiga, y, así como Altisidora vio a don Quijote, fingió desmayarse, y su amiga la recogió en sus faldas, y con gran presteza la iba a desabrochar el pecho. Don Quijote, que lo vio, llegándose a ellas, dijo:
@@ -10800,7 +10758,7 @@ A todo esto no respondió don Quijote otra palabra si no fue dar un profundo sus
 
 
 
-Capítulo XLVII. Donde se prosigue cómo se portaba Sancho Panza en su gobierno
+Donde se prosigue cómo se portaba Sancho Panza en su gobierno
 
 
 Cuenta la historia que desde el juzgado llevaron a Sancho Panza a un suntuoso palacio, adonde en una gran sala estaba puesta una real y limpísima mesa; y, así como Sancho entró en la sala, sonaron chirimías, y salieron cuatro pajes a darle aguamanos, que Sancho recibió con mucha gravedad.
@@ -10937,7 +10895,7 @@ Pero dejemos con su cólera a Sancho, y ándese la paz en el corro, y volvamos a
 
 
 
-Capítulo XLVIII. De lo que le sucedió a don Quijote con doña Rodríguez, la dueña de la duquesa, con otros acontecimientos dignos de escritura y de memoria eterna
+ De lo que le sucedió a don Quijote con doña Rodríguez, la dueña de la duquesa, con otros acontecimientos dignos de escritura y de memoria eterna
 
 
 Además estaba mohíno y malencólico el mal ferido don Quijote, vendado el rostro y señalado, no por la mano de Dios, sino por las uñas de un gato, desdichas anejas a la andante caballería. Seis días estuvo sin salir en público, en una noche de las cuales, estando despierto y desvelado, pensando en sus desgracias y en el perseguimiento de Altisidora, sintió que con una llave abrían la puerta de su aposento, y luego imaginó que la enamorada doncella venía para sobresaltar su honestidad y ponerle en condición de faltar a la fee que guardar debía a su señora Dulcinea del Toboso.
@@ -11004,7 +10962,7 @@ Apenas acabó don Quijote de decir esta razón, cuando con un gran golpe abriero
 
 
 
-Capítulo XLIX. De lo que le sucedió a Sancho Panza rondando su ínsula
+ De lo que le sucedió a Sancho Panza rondando su ínsula
 
 
 Dejamos al gran gobernador enojado y mohíno con el labrador pintor y socarrón, el cual, industriado del mayordomo, y el mayordomo del duque, se burlaban de Sancho; pero él se las tenía tiesas a todos, maguera tonto, bronco y rollizo, y dijo a los que con él estaban, y al doctor Pedro Recio, que, como se acabó el secreto de la carta del duque, había vuelto a entrar en la sala:
@@ -11167,7 +11125,7 @@ Con esto, se acabó la ronda de aquella noche, y de allí a dos días el gobiern
 
 
 
-Capítulo L. Donde se declara quién fueron los encantadores y verdugos que azotaron a la dueña y pellizcaron y arañaron a don Quijote, con el suceso que tuvo el paje que llevó la carta a Teresa Sancha, mujer de Sancho Panza
+ Donde se declara quién fueron los encantadores y verdugos que azotaron a la dueña y pellizcaron y arañaron a don Quijote, con el suceso que tuvo el paje que llevó la carta a Teresa Sancha, mujer de Sancho Panza
 
 
 Dice Cide Hamete, puntualísimo escudriñador de los átomos desta verdadera historia, que al tiempo que doña Rodríguez salió de su aposento para ir a la estancia de don Quijote, otra dueña que con ella dormía lo sintió, y que, como todas las dueñas son amigas de saber, entender y oler, se fue tras ella, con tanto silencio, que la buena Rodríguez no lo echó de ver; y, así como la dueña la vio entrar en la estancia de don Quijote, porque no faltase en ella la general costumbre que todas las dueñas tienen de ser chismosas, al momento lo fue a poner en pico a su señora la duquesa, de cómo doña Rodríguez quedaba en el aposento de don Quijote.
@@ -11326,7 +11284,7 @@ El bachiller se ofreció de escribir las cartas a Teresa de la respuesta, pero e
 
 
 
-Capítulo LI. Del progreso del gobierno de Sancho Panza, con otros sucesos tales como buenos
+ Del progreso del gobierno de Sancho Panza, con otros sucesos tales como buenos
 
 
 Amaneció el día que se siguió a la noche de la ronda del gobernador, la cual el maestresala pasó sin dormir, ocupado el pensamiento en el rostro, brío y belleza de la disfrazada doncella; y el mayordomo ocupó lo que della faltaba en escribir a sus señores lo que Sancho Panza hacía y decía, tan admirado de sus hechos como de sus dichos: porque andaban mezcladas sus palabras y sus acciones, con asomos discretos y tontos.
@@ -11425,7 +11383,7 @@ Hizo y creó un alguacil de pobres, no para que los persiguiese, sino para que l
 
 
 
-Capítulo LII. Donde se cuenta la aventura de la segunda dueña Dolorida, o Angustiada, llamada por otro nombre doña Rodríguez
+Donde se cuenta la aventura de la segunda dueña Dolorida, o Angustiada, llamada por otro nombre doña Rodríguez
 
 
 Cuenta Cide Hamete que estando ya don Quijote sano de sus aruños, le pareció que la vida que en aquel castillo tenía era contra toda la orden de caballería que profesaba, y así, determinó de pedir licencia a los duques para partirse a Zaragoza, cuyas fiestas llegaban cerca, adonde pensaba ganar el arnés que en las tales fiestas se conquista.
@@ -11508,7 +11466,7 @@ Retiróse la duquesa, para saber del paje lo que le había sucedido en el lugar 
 
 
 
-Capítulo LIII. Del fatigado fin y remate que tuvo el gobierno de Sancho Panza
+ Del fatigado fin y remate que tuvo el gobierno de Sancho Panza
 
 
 ''Pensar que en esta vida las cosas della han de durar siempre en un estado es pensar en lo escusado; antes parece que ella anda todo en redondo, digo, a la redonda: la primavera sigue al verano, el verano al estío, el estío al otoño, y el otoño al invierno, y el invierno a la primavera, y así torna a andarse el tiempo con esta rueda continua; sola la vida humana corre a su fin ligera más que el tiempo, sin esperar renovarse si no es en la otra, que no tiene términos que la limiten''. Esto dice Cide Hamete, filósofo mahomético; porque esto de entender la ligereza e instabilidad de la vida presente, y de la duración de la eterna que se espera, muchos sin lumbre de fe, sino con la luz natural, lo han entendido; pero aquí, nuestro autor lo dice por la presteza con que se acabó, se consumió, se deshizo, se fue como en sombra y humo el gobierno de Sancho.
@@ -11579,7 +11537,7 @@ Todos vinieron en ello, y le dejaron ir, ofreciéndole primero compañía y todo
 
 
 
-Capítulo LIV. Que trata de cosas tocantes a esta historia, y no a otra alguna
+ Que trata de cosas tocantes a esta historia, y no a otra alguna
 
 
 Resolviéronse el duque y la duquesa de que el desafío que don Quijote hizo a su vasallo, por la causa ya referida, pasase adelante; y, puesto que el mozo estaba en Flandes, adonde se había ido huyendo, por no tener por suegra a doña Rodríguez, ordenaron de poner en su lugar a un lacayo gascón, que se llamaba Tosilos, industriándole primero muy bien de todo lo que había de hacer.
@@ -11670,7 +11628,7 @@ Y luego se abrazaron los dos, y Sancho subió en su rucio, y Ricote se arrimó a
 
 
 
-Capítulo LV. De cosas sucedidas a Sancho en el camino, y otras que no hay más que ver
+ De cosas sucedidas a Sancho en el camino, y otras que no hay más que ver
 
 
 El haberse detenido Sancho con Ricote no le dio lugar a que aquel día llegase al castillo del duque, puesto que llegó media legua dél, donde le tomó la noche, algo escura y cerrada; pero, como era verano, no le dio mucha pesadumbre; y así, se apartó del camino con intención de esperar la mañana; y quiso su corta y desventurada suerte que, buscando lugar donde mejor acomodarse, cayeron él y el rucio en una honda y escurísima sima que entre unos edificios muy antiguos estaba, y al tiempo del caer, se encomendó a Dios de todo corazón, pensando que no había de parar hasta el profundo de los abismos. Y no fue así, porque a poco más de tres estados dio fondo el rucio, y él se halló encima dél, sin haber recebido lisión ni daño alguno.
@@ -11741,7 +11699,7 @@ Con esto dio fin a su larga plática Sancho, temiendo siempre don Quijote que ha
 
 
 
-Capítulo LVI. De la descomunal y nunca vista batalla que pasó entre don Quijote de la Mancha y el lacayo Tosilos, en la defensa de la hija de la dueña doña Rodríguez
+. De la descomunal y nunca vista batalla que pasó entre don Quijote de la Mancha y el lacayo Tosilos, en la defensa de la hija de la dueña doña Rodríguez
 
 
 No quedaron arrepentidos los duques de la burla hecha a Sancho Panza del gobierno que le dieron; y más, que aquel mismo día vino su mayordomo, y les contó punto por punto, todas casi, las palabras y acciones que Sancho había dicho y hecho en aquellos días, y finalmente les encareció el asalto de la ínsula, y el miedo de Sancho, y su salida, de que no pequeño gusto recibieron.
@@ -11812,7 +11770,7 @@ En resolución, todos estos cuentos y sucesos pararon en que Tosilos se recogies
 
 
 
-Capítulo LVII. Que trata de cómo don Quijote se despidió del duque, y de lo que le sucedió con la discreta y desenvuelta Altisidora, doncella de la duquesa
+ Que trata de cómo don Quijote se despidió del duque, y de lo que le sucedió con la discreta y desenvuelta Altisidora, doncella de la duquesa
 
 
 Ya le pareció a don Quijote que era bien salir de tanta ociosidad como la que en aquel castillo tenía; que se imaginaba ser grande la falta que su persona hacía en dejarse estar encerrado y perezoso entre los infinitos regalos y deleites que como a caballero andante aquellos señores le hacían, y parecíale que había de dar cuenta estrecha al cielo de aquella ociosidad y encerramiento; y así, pidió un día licencia a los duques para partirse. Diéronsela, con muestras de que en gran manera les pesaba de que los dejase. Dio la duquesa las cartas de su mujer a Sancho Panza, el cual lloró con ellas, y dijo:
@@ -11961,7 +11919,7 @@ Abajó la cabeza don Quijote y hizo reverencia a los duques y a todos los circun
 
 
 
-Capítulo LVIII. Que trata de cómo menudearon sobre don Quijote aventuras tantas, que no se daban vagar unas a otras
+ Que trata de cómo menudearon sobre don Quijote aventuras tantas, que no se daban vagar unas a otras
 
 
 Cuando don Quijote se vio en la campaña rasa, libre y desembarazado de los requiebros de Altisidora, le pareció que estaba en su centro, y que los espíritus se le renovaban para proseguir de nuevo el asumpto de sus caballerías, y, volviéndose a Sancho, le dijo:
@@ -12090,7 +12048,7 @@ Pero no por eso se detuvieron los apresurados corredores, ni hicieron más caso 
 
 
 
-Capítulo LIX. Donde se cuenta del extraordinario suceso, que se puede tener por aventura, que le sucedió a don Quijote
+ Donde se cuenta del extraordinario suceso, que se puede tener por aventura, que le sucedió a don Quijote
 
 
 Al polvo y al cansancio que don Quijote y Sancho sacaron del descomedimiento de los toros, socorrió una fuente clara y limpia que entre una fresca arboleda hallaron, en el margen de la cual, dejando libres, sin jáquima y freno, al rucio y a Rocinante, los dos asendereados amo y mozo se sentaron. Acudió Sancho a la repostería de su alforjas, y dellas sacó de lo que él solía llamar condumio; enjuagóse la boca, lavóse don Quijote el rostro, con cuyo refrigerio cobraron aliento los espíritus desalentados. No comía don Quijote, de puro pesaroso, ni Sancho no osaba tocar a los manjares que delante tenía, de puro comedido, y esperaba a que su señor hiciese la salva; pero, viendo que, llevado de sus imaginaciones, no se acordaba de llevar el pan a la boca, no abrió la suya, y, atropellando por todo género de crianza, comenzó a embaular en el estómago el pan y queso que se le ofrecía.
@@ -12220,8 +12178,7 @@ Madrugó don Quijote, y, dando golpes al tabique del otro aposento, se despidió
 
 
 
-
-Capítulo LX. De lo que sucedió a don Quijote yendo a Barcelona
+ De lo que sucedió a don Quijote yendo a Barcelona
 
 
 Era fresca la mañana, y daba muestras de serlo asimesmo el día en que don Quijote salió de la venta, informándose primero cuál era el más derecho camino para ir a Barcelona sin tocar en Zaragoza: tal era el deseo que tenía de sacar mentiroso aquel nuevo historiador que tanto decían que le vituperaba.
@@ -12386,7 +12343,7 @@ Apartóse Roque a una parte y escribió una carta a un su amigo, a Barcelona, d�
 
 
 
-Capítulo LXI. De lo que le sucedió a don Quijote en la entrada de Barcelona, con otras cosas que tienen más de lo verdadero que de lo discreto
+ De lo que le sucedió a don Quijote en la entrada de Barcelona, con otras cosas que tienen más de lo verdadero que de lo discreto
 
 
 Tres días y tres noches estuvo don Quijote con Roque, y si estuviera trecientos años, no le faltara qué mirar y admirar en el modo de su vida: aquí amanecían, acullá comían; unas veces huían, sin saber de quién, y otras esperaban, sin saber a quién. Dormían en pie, interrompiendo el sueño, mudándose de un lugar a otro. Todo era poner espías, escuchar centinelas, soplar las cuerdas de los arcabuces, aunque traían pocos, porque todos se servían de pedreñales. Roque pasaba las noches apartado de los suyos, en partes y lugares donde ellos no pudiesen saber dónde estaba; porque los muchos bandos que el visorrey de Barcelona había echado sobre su vida le traían inquieto y temeroso, y no se osaba fiar de ninguno, temiendo que los mismos suyos, o le habían de matar, o entregar a la justicia: vida, por cierto, miserable y enfadosa.
@@ -12421,7 +12378,7 @@ Volvieron a subir don Quijote y Sancho; con el mismo aplauso y música llegaron 
 
 
 
-Capítulo LXII. Que trata de la aventura de la cabeza encantada, con otras niñerías que no pueden dejar de contarse
+ Que trata de la aventura de la cabeza encantada, con otras niñerías que no pueden dejar de contarse
 
 
 Don Antonio Moreno se llamaba el huésped de don Quijote, caballero rico y discreto, y amigo de holgarse a lo honesto y afable, el cual, viendo en su casa a don Quijote, andaba buscando modos como, sin su perjuicio, sacase a plaza sus locuras; porque no son burlas las que duelen, ni hay pasatiempos que valgan si son con daño de tercero. Lo primero que hizo fue hacer desarmar a don Quijote y sacarle a vistas con aquel su estrecho y acamuzado vestido —como ya otras veces le hemos descrito y pintado— a un balcón que salía a una calle de las más principales de la ciudad, a vista de las gentes y de los muchachos, que como a mona le miraban. Corrieron de nuevo delante dél los de las libreas, como si para él solo, no para alegrar aquel festivo día, se las hubieran puesto; y Sancho estaba contentísimo, por parecerle que se había hallado, sin saber cómo ni cómo no, otras bodas de Camacho, otra casa como la de don Diego de Miranda y otro castillo como el del duque.
@@ -12634,7 +12591,7 @@ Y, diciendo esto, con muestras de algún despecho, se salió de la emprenta. Y a
 
 
 
-Capítulo LXIII. De lo mal que le avino a Sancho Panza con la visita de las galeras, y la nueva aventura de la hermosa morisca
+ De lo mal que le avino a Sancho Panza con la visita de las galeras, y la nueva aventura de la hermosa morisca
 
 
 Grandes eran los discursos que don Quijote hacía sobre la respuesta de la encantada cabeza, sin que ninguno dellos diese en el embuste, y todos paraban con la promesa, que él tuvo por cierto, del desencanto de Dulcinea. Allí iba y venía, y se alegraba entre sí mismo, creyendo que había de ver presto su cumplimiento; y Sancho, aunque aborrecía el ser gobernador, como queda dicho, todavía deseaba volver a mandar y a ser obedecido; que esta mala ventura trae consigo el mando, aunque sea de burlas.
@@ -12731,7 +12688,7 @@ Firmados, pues, en este parecer, se desembarcó el virrey, y don Antonio Moreno 
 
 
 
-Capítulo LXIV. Que trata de la aventura que más pesadumbre dio a don Quijote de cuantas hasta entonces le habían sucedido
+ Que trata de la aventura que más pesadumbre dio a don Quijote de cuantas hasta entonces le habían sucedido
 
 
 La mujer de don Antonio Moreno cuenta la historia que recibió grandísimo contento de ver a Ana Félix en su casa. Recibióla con mucho agrado, así enamorada de su belleza como de su discreción, porque en lo uno y en lo otro era estremada la morisca, y toda la gente de la ciudad, como a campana tañida, venían a verla.
@@ -12781,8 +12738,7 @@ Mandó el visorrey a don Antonio que fuese tras él, y que en todas maneras supi
 
 
 
-
-Capítulo LXV. Donde se da noticia quién era el de la Blanca Luna, con la libertad de Don Gregorio, y de otros sucesos
+Donde se da noticia quién era el de la Blanca Luna, con la libertad de Don Gregorio, y de otros sucesos
 
 
 Siguió don Antonio Moreno al Caballero de la Blanca Luna, y siguiéronle también, y aun persiguiéronle, muchos muchachos, hasta que le cerraron en un mesón dentro de la ciudad. Entró el don Antonio con deseo de conocerle; salió un escudero a recebirle y a desarmarle; encerróse en una sala baja, y con él don Antonio, que no se le cocía el pan hasta saber quién fuese. Viendo, pues, el de la Blanca Luna que aquel caballero no le dejaba, le dijo:
@@ -12831,7 +12787,7 @@ Llegóse el día de la partida de don Antonio, y el de don Quijote y Sancho, que
 
 
 
-Capítulo LXVI. Que trata de lo que verá el que lo leyere, o lo oirá el que lo escuchare leer
+ Que trata de lo que verá el que lo leyere, o lo oirá el que lo escuchare leer
 
 
 Al salir de Barcelona, volvió don Quijote a mirar el sitio donde había caído, y dijo:
@@ -12912,7 +12868,7 @@ Rogóle Tosilos le contase lo que le había sucedido, pero Sancho le respondió 
 
 
 
-Capítulo LXVII. De la resolución que tomó don Quijote de hacerse pastor y seguir la vida del campo, en tanto que se pasaba el año de su promesa, con otros sucesos en verdad gustosos y buenos
+ De la resolución que tomó don Quijote de hacerse pastor y seguir la vida del campo, en tanto que se pasaba el año de su promesa, con otros sucesos en verdad gustosos y buenos
 
 
 Si muchos pensamientos fatigaban a don Quijote antes de ser derribado, muchos más le fatigaron después de caído. A la sombra del árbol estaba, como se ha dicho, y allí, como moscas a la miel, le acudían y picaban pensamientos: unos iban al desencanto de Dulcinea y otros a la vida que había de hacer en su forzosa retirada. Llegó Sancho y alabóle la liberal condición del lacayo Tosilos.
@@ -12963,7 +12919,7 @@ Retiráronse, cenaron tarde y mal, bien contra la voluntad de Sancho, a quien se
 
 
 
-Capítulo LXVIII. De la cerdosa aventura que le aconteció a don Quijote
+ De la cerdosa aventura que le aconteció a don Quijote
 
 
 Era la noche algo escura, puesto que la luna estaba en el cielo, pero no en parte que pudiese ser vista: que tal vez la señora Diana se va a pasear a los antípodas, y deja los montes negros y los valles escuros. Cumplió don Quijote con la naturaleza durmiendo el primer sueño, sin dar lugar al segundo; bien al revés de Sancho, que nunca tuvo segundo, porque le duraba el sueño desde la noche hasta la mañana, en que se mostraba su buena complexión y pocos cuidados. Los de don Quijote le desvelaron de manera que despertó a Sancho y le dijo:
@@ -13050,7 +13006,7 @@ Entraron al patio principal del castillo, y viéronle aderezado y puesto de mane
 
 
 
-Capítulo LXIX. Del más raro y más nuevo suceso que en todo el discurso desta grande historia avino a don Quijote
+. Del más raro y más nuevo suceso que en todo el discurso desta grande historia avino a don Quijote
 
 
 Apeáronse los de a caballo, y, junto con los de a pie, tomando en peso y arrebatadamente a Sancho y a don Quijote, los entraron en el patio, alrededor del cual ardían casi cien hachas, puestas en sus blandones, y, por los corredores del patio, más de quinientas luminarias; de modo que, a pesar de la noche, que se mostraba algo escura, no se echaba de ver la falta del día. En medio del patio se levantaba un túmulo como dos varas del suelo, cubierto todo con un grandísimo dosel de terciopelo negro, alrededor del cual, por sus gradas, ardían velas de cera blanca sobre más de cien candeleros de plata; encima del cual túmulo se mostraba un cuerpo muerto de una tan hermosa doncella, que hacía parecer con su hermosura hermosa a la misma muerte. Tenía la cabeza sobre una almohada de brocado, coronada con una guirnalda de diversas y odoríferas flores tejida, las manos cruzadas sobre el pecho, y, entre ellas, un ramo de amarilla y vencedora palma.
@@ -13155,7 +13111,7 @@ Besóle por ello las manos Sancho, con la coroza en la mano y las rodillas en el
 
 
 
-Capítulo LXX. Que sigue al de sesenta y nueve, y trata de cosas no escusadas para la claridad desta historia
+ Que sigue al de sesenta y nueve, y trata de cosas no escusadas para la claridad desta historia
 
 
 Durmió Sancho aquella noche en una carriola, en el mesmo aposento de don Quijote, cosa que él quisiera escusarla, si pudiera, porque bien sabía que su amo no le había de dejar dormir a preguntas y a respuestas, y no se hallaba en disposición de hablar mucho, porque los dolores de los martirios pasados los tenía presentes, y no le dejaban libre la lengua, y viniérale más a cuento dormir en una choza solo, que no en aquella rica estancia acompañado. Salióle su temor tan verdadero y su sospecha tan cierta, que, apenas hubo entrado su señor en el lecho, cuando dijo:
@@ -13252,7 +13208,7 @@ Acabóse la plática, vistióse don Quijote, comió con los duques, y partióse 
 
 
 
-Capítulo LXXI. De lo que a don Quijote le sucedió con su escudero Sancho yendo a su aldea
+ De lo que a don Quijote le sucedió con su escudero Sancho yendo a su aldea
 
 
 Iba el vencido y asendereado don Quijote pensativo además por una parte, y muy alegre por otra. Causaba su tristeza el vencimiento; y la alegría, el considerar en la virtud de Sancho, como lo había mostrado en la resurreción de Altisidora, aunque con algún escrúpulo se persuadía a que la enamorada doncella fuese muerta de veras. No iba nada Sancho alegre, porque le entristecía ver que Altisidora no le había cumplido la palabra de darle las camisas; y, yendo y viniendo en esto, dijo a su amo:
@@ -13331,7 +13287,7 @@ Y, con esto, cesó por entonces su plática.
 
 
 
-Capítulo LXXII. De cómo don Quijote y Sancho llegaron a su aldea
+ De cómo don Quijote y Sancho llegaron a su aldea
 
 
 Todo aquel día, esperando la noche, estuvieron en aquel lugar y mesón don Quijote y Sancho: el uno, para acabar en la campaña rasa la tanda de su diciplina, y el otro, para ver el fin della, en el cual consistía el de su deseo. Llegó en esto al mesón un caminante a caballo, con tres o cuatro criados, uno de los cuales dijo al que el señor dellos parecía:
@@ -13406,7 +13362,7 @@ Con esto, bajaron de la cuesta y se fueron a su pueblo.
 
 
 
-Capítulo LXXIII. De los agüeros que tuvo don Quijote al entrar de su aldea, con otros sucesos que adornan y acreditan esta grande historia
+De los agüeros que tuvo don Quijote al entrar de su aldea, con otros sucesos que adornan y acreditan esta grande historia
 
 
 A la entrada del cual, según dice Cide Hamete, vio don Quijote que en las eras del lugar estaban riñendo dos mochachos, y el uno dijo al otro:
@@ -13485,7 +13441,7 @@ Y las buenas hijas —que lo eran sin duda ama y sobrina— le llevaron a la cam
 
 
 
-Capítulo LXXIV. De cómo don Quijote cayó malo, y del testamento que hizo, y su muerte
+ De cómo don Quijote cayó malo, y del testamento que hizo, y su muerte
 
 
 Como las cosas humanas no sean eternas, yendo siempre en declinación de sus principios hasta llegar a su último fin, especialmente las vidas de los hombres, y como la de don Quijote no tuviese privilegio del cielo para detener el curso de la suya, llegó su fin y acabamiento cuando él menos lo pensaba; porque, o ya fuese de la melancolía que le causaba el verse vencido, o ya por la disposición del cielo, que así lo ordenaba, se le arraigó una calentura que le tuvo seis días en la cama, en los cuales fue visitado muchas veces del cura, del bachiller y del barbero, sus amigos, sin quitársele de la cabecera Sancho Panza, su buen escudero.
@@ -13587,121 +13543,6 @@ para mí estaba guardada.
 Para mí sola nació don Quijote, y yo para él; él supo obrar y yo escribir; solos los dos somos para en uno, a despecho y pesar del escritor fingido y tordesillesco que se atrevió, o se ha de atrever, a escribir con pluma de avestruz grosera y mal deliñada las hazañas de mi valeroso caballero, porque no es carga de sus hombros ni asunto de su resfriado ingenio; a quien advertirás, si acaso llegas a conocerle, que deje reposar en la sepultura los cansados y ya podridos huesos de don Quijote, y no le quiera llevar, contra todos los fueros de la muerte, a Castilla la Vieja, haciéndole salir de la fuesa donde real y verdaderamente yace tendido de largo a largo, imposibilitado de hacer tercera jornada y salida nueva; que, para hacer burla de tantas como hicieron tantos andantes caballeros, bastan las dos que él hizo, tan a gusto y beneplácito de las gentes a cuya noticia llegaron, así en éstos como en los estraños reinos''. Y con esto cumplirás con tu cristiana profesión, aconsejando bien a quien mal te quiere, y yo quedaré satisfecho y ufano de haber sido el primero que gozó el fruto de sus escritos enteramente, como deseaba, pues no ha sido otro mi deseo que poner en aborrecimiento de los hombres las fingidas y disparatadas historias de los libros de caballerías, que, por las de mi verdadero don Quijote, van ya tropezando, y han de caer del todo, sin duda alguna. Vale.
 
 Fin
-
-
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK DON QUIJOTE ***
-
-Updated editions will replace the previous one—the old editions will be renamed.
-
-Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-
-
-
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:
-
-This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
-
-
-
-1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:
-
-• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”
-
-• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.
-
-• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
-
-• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.
-
-
-
-1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
-
-The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
-
-Most people start at our website which has the main PG search facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
 
 
 
