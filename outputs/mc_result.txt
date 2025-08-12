@@ -1,0 +1,46 @@
+Dev accuracy (train langs only): 1.000
+
+True  Pred          en         es         fr         de  Sentence
+------------------------------------------------------------------------------------------
+en    en    -89.9 -118.9 -96.3 -107.6  The sun sets over the quiet hills.
+en    en    -103.9 -146.8 -133.6 -134.3  I enjoy reading books in the evening.
+en    en    -106.8 -172.2 -137.2 -140.1  The little cat sleeps on the warm chair.
+en    en    -116.2 -168.4 -144.2 -142.2  A gentle breeze moves through the trees.
+es    es    -104.6 -93.3 -101.5 -113.5  El sol brilla sobre el campo verde.
+es    es    -100.0 -79.5 -86.8 -113.8  Me gusta caminar por la playa.
+es    es    -128.9 -98.4 -126.3 -120.3  La niña bebe un vaso de agua fría.
+es    es    -107.8 -86.5 -105.7 -117.7  Un pájaro canta en la rama alta.
+fr    fr    -120.8 -126.7 -93.0 -124.5  Le chat noir dort près de la fenêtre.
+fr    fr    -98.5 -100.2 -85.4 -111.5  J’aime boire du café le matin.
+fr    fr    -109.1 -128.9 -94.2 -110.3  Le vent souffle sur la vieille maison.
+fr    fr    -87.9 -96.3 -74.9 -87.0  Un enfant joue dans le jardin.
+de    de    -144.5 -162.1 -145.5 -113.1  Die Sonne scheint über den ruhigen See.
+de    de    -101.9 -118.0 -113.4 -87.8  Ich lese gerne Bücher am Abend.
+de    de    -146.7 -185.5 -165.0 -111.0  Ein kleiner Hund schläft auf dem Sofa.
+de    de    -113.0 -141.5 -122.2 -96.8  Der Vogel singt im hohen Baum.
+it    fr    -133.2 -126.9 -119.1 -135.2  Il sole splende sulla città silenziosa.
+it    en    -104.2 -111.0 -123.9 -132.8  Mi piace bere tè caldo al mattino.
+it    es    -115.5 -98.4 -123.1 -134.1  Un bambino gioca vicino alla fontana.
+it    es    -116.1 -111.6 -114.6 -115.9  La luna illumina il sentiero stretto.
+pt    es    -102.6 -85.2 -89.3 -119.8  O sol aquece a areia da praia.
+pt    es    -80.7 -67.6 -78.8 -75.0  Gosto de ler antes de dormir.
+pt    fr    -99.6 -98.4 -94.7 -126.2  Uma criança corre pelo jardim.
+pt    es    -125.1 -103.2 -117.8 -139.5  A chuva cai sobre o telhado velho.
+nl    de    -130.8 -140.6 -127.9 -117.1  De zon schijnt op het rustige dorp.
+nl    de    -119.7 -153.1 -139.7 -102.1  Ik drink graag koffie in de ochtend.
+nl    de    -101.6 -123.6 -109.3 -92.2  Een vogel vliegt over het meer.
+nl    de    -79.0 -87.1 -88.9 -75.2  De kinderen spelen in de tuin.
+sv    de    -116.5 -127.3 -116.1 -103.8  Solen lyser över den lugna sjön.
+sv    de    -134.2 -184.0 -155.1 -119.7  Jag tycker om att läsa på kvällen.
+sv    de    -95.0 -117.5 -102.2 -86.0  En liten katt sover på stolen.
+sv    de    -121.8 -123.3 -122.5 -99.6  Vinden blåser genom de höga träden.
+
+
+
+
+Interpretations:
+- Markov Chain captures orthographic similarity, not semantics.
+- It struggles with closely related languages not in the training set.
+- Motivation for:
+    HMM: capturing higher-level state patterns may help separate lookalikes.
+    Neural-HMM: learning emissions could generalize better to unseen languages by leveraging shared character embeddings.
