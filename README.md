@@ -40,23 +40,6 @@ We evaluate all models on:
 
 ---
 
-## Repository Structure
-```
-src/
-  data/               # Corpus preparation, tokenization
-  models/             # MC, HMM, Neural-HMM implementations
-  eval/               # Metrics & evaluation scripts
-notebooks/            # Data exploration, experiments, result analysis
-plots/                # Saved figures
-results/              # Experiment outputs
-requirements.txt      # Dependencies
-DATA.md               # Dataset sources & licenses
-README.md
-LICENSE               
-```
-
----
-
 ## Dataset
 - **Training languages:** English, Spanish, French, German
 - **Unseen languages:** Italian, Portuguese, Dutch, Swedish
