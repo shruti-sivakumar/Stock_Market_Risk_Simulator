@@ -1,0 +1,11 @@
+== Sentence splits (training languages) ==
+lang     total   train     dev    test avg_len_tr  avg_len_dev   avg_len_te
+---------------------------------------------------------------------------
+en        5043    4034     504     505         88           88           91
+es        4668    3734     467     467        118          119          117
+fr        5460    4368     546     546         79           80           79
+de         563     450      56      57        107          104          114
+
+Char vocab written to tokenizers/vocab_char.txt  (size=70)
+
+[OK] Evaluation sentences copied to data/clean/{lang}/eval_sentences.txt for all languages.
