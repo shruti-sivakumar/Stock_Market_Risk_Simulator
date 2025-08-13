@@ -11,3 +11,5 @@ nl        3592    2873     359     360         91           91           90
 sv        3776    3020     378     378         83           84           87
 
 Char vocab written to tokenizers/vocab_char.txt  (size=76)
+
+[OK] Evaluation sentences copied to data/clean/{lang}/eval_sentences.txt for all languages.
