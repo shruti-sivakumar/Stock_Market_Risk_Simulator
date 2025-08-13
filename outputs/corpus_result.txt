@@ -1,15 +1,23 @@
+[INFO] Found languages: ['ca', 'da', 'de', 'en', 'es', 'fi', 'fr', 'is', 'it', 'nl', 'nr', 'pt', 'ro', 'sv']
+
 == Sentence splits (all languages) ==
 lang     total   train     dev    test avg_len_tr  avg_len_dev   avg_len_te
 ---------------------------------------------------------------------------
-en        5043    4034     504     505         88           88           91
-es        4668    3734     467     467        118          119          117
-fr        5460    4368     546     546         79           80           79
+ca         229     183      23      23        106           87          102
+da        3116    2492     312     312         96          101           97
 de         563     450      56      57        107          104          114
+en        5039    4031     504     504         89           87           87
+es        4668    3734     467     467        118          119          117
+fi        2167    1733     217     217         86           82           84
+fr        5460    4368     546     546         79           80           79
+is         171     136      17      18         98          105           93
 it        1047     837     105     105         68           68           70
-pt        2794    2235     279     280         88           83           84
 nl        3592    2873     359     360         91           91           90
+nr        3048    2438     305     305         90           95           94
+pt        2794    2235     279     280         88           83           84
+ro        1351    1080     135     136        117          118          116
 sv        3776    3020     378     378         83           84           87
 
-Char vocab written to tokenizers/vocab_char.txt  (size=76)
+Char vocab written to tokenizers/vocab_char.txt  (size=84)
 
-[OK] Evaluation sentences copied to data/clean/{lang}/eval_sentences.txt for all languages.
+[OK] Evaluation sentences copied for all languages.
